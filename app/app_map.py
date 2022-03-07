@@ -114,7 +114,7 @@ else:
 if "Barrios" in capas_view:
     if check_barrios:
         cp_barrios = folium.Choropleth(
-            geo_data="barrios.geojson",
+            geo_data=path+"barrios.geojson",
             name="Barrios",
             data=df_barrios,
             columns=["BARRIO", "COMUNA"],
@@ -137,7 +137,7 @@ if "Comunas" in capas_view:
         df_comunas_aux = df_comunas.copy()
         df_comunas_aux["flag_color"] = df_comunas_aux.COMUNAS.isin(options_comunas)
         cp_comuna = folium.Choropleth(
-            geo_data="CABA_comunas.geojson",
+            geo_data=path+"CABA_comunas.geojson",
             name="Comunas seleccionadas",
             data=df_comunas_aux,
             columns=["COMUNAS_2","flag_color"],
@@ -154,7 +154,7 @@ if "Comunas" in capas_view:
         
         # style = {"fillColor": "#000000", "color": color_comuna}
         # folium.GeoJson(
-        #     "CABA_comunas.geojson", 
+        #     path+"CABA_comunas.geojson", 
         #     name="Comunas poligono",
         #     style_function=lambda x:style
         # ).add_to(m)
