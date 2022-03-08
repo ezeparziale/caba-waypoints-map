@@ -49,6 +49,9 @@ df_comunas["COMUNAS"] = df_comunas["COMUNAS"].astype(str).astype(float).astype(i
 df_comunas_wkt = pd.DataFrame(gpd.read_file(path+"CABA_comunas.geojson"))
 df_comunas_wkt = df_comunas_wkt[["WKT","COMUNAS"]]
 df_comunas_wkt["COMUNAS"] = df_comunas_wkt["COMUNAS"].astype(str).astype(float).astype(int)
+df_gastronomia = pd.read_csv(path+"gastronomia/gastronomia.csv")
+df_cafe_heladeria_otros = pd.read_csv(path+"cafes-heladerias-otros/cafes-heladerias-otros.csv")
+df_combustibles = pd.read_csv(path+"combustibles/combustibles.csv")
 
 df_subte_comuna = pd.DataFrame()
 df_delitos_comuna = pd.DataFrame()
@@ -63,7 +66,7 @@ st.sidebar.subheader("Capas")
 
 capas_view = st.sidebar.multiselect(
     "Ver", 
-    ["Subte", "Delitos", "Barrios", "Comunas","Cajeros"], 
+    ["Subte", "Delitos", "Barrios", "Comunas", "Cajeros", "Gastronomía", "Cafés, Heladerias y otros", "Combustibles"], 
     ["Subte"],
     help="Capas a visualizar"
     )
@@ -97,6 +100,17 @@ if "Barrios" in capas_view:
 if "Comunas" in capas_view:
     check_comunas = st.sidebar.checkbox("Ver comunas", True)
 
+if "Gastronomía" in capas_view:
+    gastronomia_list = set(df_gastronomia["local"].tolist())
+    options_burger = st.sidebar.multiselect("Gastronomía", gastronomia_list, gastronomia_list)
+
+if "Cafés, Heladerias y otros" in capas_view:
+    cafe_heladeria_otros_list = set(df_cafe_heladeria_otros["local"].tolist())
+    options_cafe_hedelaria_otros = st.sidebar.multiselect("Cafés, Heladerias y otros", cafe_heladeria_otros_list, cafe_heladeria_otros_list)
+
+if "Combustibles" in capas_view:
+    combustibles_list = set(df_combustibles["local"].tolist())
+    options_combustibles = st.sidebar.multiselect("Combustibles", combustibles_list, combustibles_list)
 
 # Pre filtrado
 if options_comunas:
@@ -236,6 +250,66 @@ if "Subte" in capas_view:
                 
         ).add_to(m)
 
+# Gastronomia
+if "Gastronomía" in capas_view:
+    df_gastronomia_filtered = df_gastronomia[
+        (df_gastronomia["local"].isin(options_burger)) &
+        (df_gastronomia["comuna"].isin(options_comunas))
+    ]
+    df_gastronomia_filtered = df_gastronomia_filtered.sort_values(by=["local","comuna"])
+    for i in range(len(df_gastronomia_filtered)):
+        print(df_gastronomia_filtered.iloc[i]['icon'])
+        folium.Marker(
+            location=[
+                df_gastronomia_filtered.iloc[i]["lat"], 
+                df_gastronomia_filtered.iloc[i]["long"]
+                ],
+            popup=df_gastronomia_filtered.iloc[i][("name")]+"\n"+df_gastronomia_filtered.iloc[i][("desc")],
+            icon=folium.DivIcon(
+                html=f"<img src='https://raw.githubusercontent.com/ezeparziale/caba-waypoints-map/main/app/data/gastronomia/{df_gastronomia_filtered.iloc[i]['icon']}.bmp' style='display:block;margin-left:auto;margin-right:auto;width:30px;border:0;'>"
+                ),                 
+        ).add_to(m)
+
+
+# Cafés, Heladerias y otros
+if "Cafés, Heladerias y otros" in capas_view:
+    df_cafe_heladeria_otros_filtered = df_cafe_heladeria_otros[
+        (df_cafe_heladeria_otros["local"].isin(options_cafe_hedelaria_otros)) &
+        (df_cafe_heladeria_otros["comuna"].isin(options_comunas))
+    ]
+
+    df_cafe_heladeria_otros_filtered = df_cafe_heladeria_otros_filtered.sort_values(by=["local","comuna"])
+    for i in range(len(df_cafe_heladeria_otros_filtered)):
+        folium.Marker(
+            location=[
+                df_cafe_heladeria_otros_filtered.iloc[i]["lat"], 
+                df_cafe_heladeria_otros_filtered.iloc[i]["long"]
+                ],
+            popup=str(df_cafe_heladeria_otros_filtered.iloc[i][("name")]),
+            icon=folium.DivIcon(
+                html=f"<img src='https://raw.githubusercontent.com/ezeparziale/caba-waypoints-map/main/app/data/cafes-heladerias-otros/{df_cafe_heladeria_otros_filtered.iloc[i]['icon']}.bmp' style='display:block;margin-left:auto;margin-right:auto;width:30px;border:0;'>"
+                ),                 
+        ).add_to(m)
+
+# Combustibles
+if "Combustibles" in capas_view:
+    df_combustibles_filtered = df_combustibles[
+        (df_combustibles["local"].isin(options_combustibles)) &
+        (df_combustibles["comuna"].isin(options_comunas))
+    ]
+    df_combustibles_filtered = df_combustibles_filtered.sort_values(by=["local","comuna"])
+    for i in range(len(df_combustibles_filtered)):
+        print(df_combustibles_filtered.iloc[i]['icon'])
+        folium.Marker(
+            location=[
+                df_combustibles_filtered.iloc[i]["lat"], 
+                df_combustibles_filtered.iloc[i]["long"]
+                ],
+            popup=df_combustibles_filtered.iloc[i][("name")],
+            icon=folium.DivIcon(
+                html=f"<img src='https://raw.githubusercontent.com/ezeparziale/caba-waypoints-map/main/app/data/combustibles/{df_combustibles_filtered.iloc[i]['icon']}.bmp' style='display:block;margin-left:auto;margin-right:auto;width:30px;border:0;'>"
+                ),                 
+        ).add_to(m)
 
 df_cajeros_filtered = pd.DataFrame()
 # Waypoint cajeros
@@ -305,6 +379,16 @@ if "Delitos" in capas_view:
 else:
     col1.metric("# Delitos", df_delitos.shape[0])
 
+if "Gastronomía" in capas_view:
+    col1.metric("# Gastronomía", df_gastronomia_filtered.shape[0])
+else:
+    col1.metric("# Gastronomía", df_gastronomia.shape[0])
+
+if "Cafés, Heladerias y otros" in capas_view:
+    col1.metric("# Cafés, Heladerias y otros", df_cafe_heladeria_otros_filtered.shape[0])
+else:
+    col1.metric("# Cafés, Heladerias y otros", df_cafe_heladeria_otros.shape[0])
+
 
 # Mapa
 st.sidebar.subheader("Mapa")
@@ -348,6 +432,28 @@ with col2:
                 key="btn_csv_barrios"
             )
 
+    if "Gastronomía" in capas_view:
+        with st.expander("Gastronomía data"):
+            st.table(data=df_gastronomia_filtered.sort_values(by=["comuna","local"]))
+            st.download_button(
+            label="Descargar data en CSV",
+            data=df_gastronomia_filtered.to_csv().encode('utf-8'),
+            file_name='gastronomia.csv',
+            mime='text/csv',
+            key="btn_csv_burger"
+        )
+
+    if "Cafés, Heladerias y otros" in capas_view:
+        with st.expander("Cafés, Heladerias y otros data"):
+            st.table(data=df_cafe_heladeria_otros_filtered.sort_values(by=["comuna","local"]))
+            st.download_button(
+            label="Descargar data en CSV",
+            data=df_cafe_heladeria_otros_filtered.to_csv().encode('utf-8'),
+            file_name='cafés-heladerias-otros.csv',
+            mime='text/csv',
+            key="btn_csv_burger"
+        )
+
     if "Cajeros" in capas_view:
         if check_cajeros:
             with st.expander("Cajeros"):
@@ -359,3 +465,14 @@ with col2:
                 mime='text/csv',
                 key="btn_csv_cajeros"
             )
+
+    if "Combustibles" in capas_view:
+        with st.expander("Combustibles data"):
+            st.table(data=df_combustibles_filtered.sort_values(by=["comuna","local"]))
+            st.download_button(
+            label="Descargar data en CSV",
+            data=df_combustibles_filtered.to_csv().encode('utf-8'),
+            file_name='combustibles.csv',
+            mime='text/csv',
+            key="btn_csv_burger"
+        )
