@@ -1,0 +1,605 @@
+comuna,local,name,desc,icon,long,lat
+14.0,Amalfi,Amalfi - Belgrano,,AR_Amalfi,-58.444661451503634,-34.56983436830342
+1.0,Amalfi,Amalfi - Microcentro,,AR_Amalfi,-58.377218982204795,-34.60108855739236
+2.0,Aroma Freddo,Aroma Freddo - Agüero,Wi-Fi,AR_Aroma Freddo,-58.40721999295056,-34.59168003872037
+14.0,Aroma Freddo,Aroma Freddo - Armenia,Wi-Fi,AR_Aroma Freddo,-58.428050028160214,-34.5898599922657
+3.0,Aroma Freddo,Aroma Freddo - Corrientes,Wi-Fi,AR_Aroma Freddo,-58.39233532547951,-34.60438935086131
+1.0,Aroma Freddo,Aroma Freddo - Florida 628,Wi-Fi,AR_Aroma Freddo,-58.37540002539754,-34.600759986788034
+1.0,Aroma Freddo,Aroma Freddo - Florida 963,Wi-Fi,AR_Aroma Freddo,-58.375370018184185,-34.59672996774316
+2.0,Aroma Freddo,Aroma Freddo - Pueyrredón,Wi-Fi,AR_Aroma Freddo,-58.40284002944827,-34.59426996298134
+2.0,Aroma Freddo,Aroma Freddo - Recoleta,Wi-Fi,AR_Aroma Freddo,-58.390709990635514,-34.587699975818396
+2.0,Aroma Freddo,Aroma Freddo - Santa Fe,Wi-Fi,AR_Aroma Freddo,-58.38719068095088,-34.59576169028878
+5.0,Balcarce,Balcarce - Almagro,,AR_Balcarce,-58.416894720867276,-34.6176590770483
+1.0,Balcarce,Balcarce - Av. Corrientes,,AR_Balcarce,-58.378116600215435,-34.60350573062897
+13.0,Balcarce,Balcarce - Belgrano,,AR_Balcarce,-58.46133045852184,-34.564817044883966
+6.0,Balcarce,Balcarce - Caballito,,AR_Balcarce,-58.42868554405868,-34.6180216781795
+1.0,Balcarce,Balcarce - Congreso,,AR_Balcarce,-58.39190692640841,-34.60897902958095
+1.0,Balcarce,Balcarce - Lavalle,,AR_Balcarce,-58.376261768862605,-34.602215168997645
+1.0,Balcarce,Balcarce - Monserrat,,AR_Balcarce,-58.391621271148324,-34.617790253832936
+14.0,Balcarce,Balcarce - Palermo,,AR_Balcarce,-58.4131564758718,-34.5909409224987
+6.0,Balcarce,Balcarce - Primera Junta,,AR_Balcarce,-58.442632192745805,-34.62144250050187
+2.0,Balcarce,Balcarce - Recoleta,,AR_Balcarce,-58.39008352719247,-34.5993768889457
+11.0,Bonafide,Bonafide - Agronomia,,AR_Bonafide,-58.48353814333677,-34.597786171361804
+3.0,Bonafide,Bonafide - Almagro,,AR_Bonafide,-58.401759937405586,-34.609933979809284
+3.0,Bonafide,Bonafide - Av. Cordoba,,AR_Bonafide,-58.3935409784317,-34.59975080564618
+1.0,Bonafide,Bonafide - Barrio Norte,,AR_Bonafide,-58.38109443895519,-34.59947026334703
+5.0,Bonafide,Bonafide - Boedo,,AR_Bonafide,-58.41596198268235,-34.62394416332245
+5.0,Bonafide,Bonafide - Boedo II,,AR_Bonafide,-58.42032509855926,-34.62596906349063
+14.0,Bonafide,Bonafide - Botánico,,AR_Bonafide,-58.41721951961517,-34.585895016789436
+5.0,Bonafide,Bonafide - Caballito,,AR_Bonafide,-58.42950546182692,-34.615161437541246
+7.0,Bonafide,Bonafide - Caballito1,,AR_Bonafide,-58.43581770546734,-34.634581971913576
+6.0,Bonafide,Bonafide - Caballito2,,AR_Bonafide,-58.45304997637868,-34.625189965590835
+6.0,Bonafide,Bonafide - Caballito3,,AR_Bonafide,-58.45033859834075,-34.62808080017567
+13.0,Bonafide,Bonafide - Cabildo,,AR_Bonafide,-58.454107688739896,-34.56510303542018
+13.0,Bonafide,Bonafide - Cabildo y Monroe,,AR_Bonafide,-58.45991240814328,-34.5582187268883
+2.0,Bonafide,Bonafide - Callao,,AR_Bonafide,-58.39310017414391,-34.59867540746927
+14.0,Bonafide,Bonafide - Charcas,,AR_Bonafide,-58.412520037963986,-34.59183996543288
+3.0,Bonafide,Bonafide - Corrientes Once,,AR_Bonafide,-58.4053751360625,-34.60423277691007
+11.0,Bonafide,Bonafide - Devoto Shopping,,AR_Bonafide,-58.5175300296396,-34.61165000684559
+13.0,Bonafide,Bonafide - Elcano,,AR_Bonafide,-58.45900137908757,-34.572428818792105
+1.0,Bonafide,Bonafide - Entre Ríos,,AR_Bonafide,-58.391648260876536,-34.614891121163964
+7.0,Bonafide,Bonafide - Flores,,AR_Bonafide,-58.45529096201062,-34.626176012679935
+7.0,Bonafide,Bonafide - Flores Oeste,,AR_Bonafide,-58.46952301450074,-34.63061121292412
+7.0,Bonafide,Bonafide - Flores1,,AR_Bonafide,-58.455717181786895,-34.62621691636741
+10.0,Bonafide,Bonafide - Floresta,,AR_Bonafide,-58.484909338876605,-34.63460451923311
+5.0,Bonafide,Bonafide - Hospital Italiano,,AR_Bonafide,-58.42763353139162,-34.60596992634237
+14.0,Bonafide,Bonafide - Jorge Newbery,,AR_Bonafide,-58.43575584702194,-34.568281285464764
+13.0,Bonafide,Bonafide - Lacroze,,AR_Bonafide,-58.44545907340944,-34.57087464630604
+14.0,Bonafide,Bonafide - Las Heras,,AR_Bonafide,-58.40172339230776,-34.58354573696852
+1.0,Bonafide,Bonafide - Lima,,AR_Bonafide,-58.381686536595225,-34.61504668928683
+9.0,Bonafide,Bonafide - Liniers,,AR_Bonafide,-58.52628903463483,-34.64034637436271
+10.0,Bonafide,Bonafide - Lope de Vega,,AR_Bonafide,-58.52583481930196,-34.613560661673546
+9.0,Bonafide,Bonafide - Mataderos,,AR_Bonafide,-58.505022805184126,-34.653778206557035
+5.0,Bonafide,Bonafide - Medrano,,AR_Bonafide,-58.4174133092165,-34.61083486676216
+1.0,Bonafide,Bonafide - Microcentro,,AR_Bonafide,-58.37593965232372,-34.60467550903559
+4.0,Bonafide,Bonafide - Montes de Oca,,AR_Bonafide,-58.37510238401592,-34.636445101350546
+14.0,Bonafide,Bonafide - Niceto Vega,,AR_Bonafide,-58.42926096171141,-34.59369940683246
+13.0,Bonafide,Bonafide - Norte,,AR_Bonafide,-58.460903065279126,-34.55729763954878
+14.0,Bonafide,Bonafide - Palermo SOHO,,AR_Bonafide,-58.42744351364672,-34.59058058448136
+1.0,Bonafide,Bonafide - Paraguay,,AR_Bonafide,-58.37924866005778,-34.59765105508268
+1.0,Bonafide,Bonafide - Pellegrini,,AR_Bonafide,-58.38099930435419,-34.60125803947449
+6.0,Bonafide,Bonafide - Primera Junta,,AR_Bonafide,-58.44059941358864,-34.620162416249514
+2.0,Bonafide,Bonafide - Recoleta,,AR_Bonafide,-58.39319773949683,-34.59531895816326
+2.0,Bonafide,Bonafide - Recoleta1,,AR_Bonafide,-58.389886720106006,-34.59179436787963
+2.0,Bonafide,Bonafide - Recoleta2,,AR_Bonafide,-58.40617544017732,-34.59099833853543
+1.0,Bonafide,Bonafide - Retiro,,AR_Bonafide,-58.373852306976914,-34.60093407891691
+4.0,Bonafide,Bonafide - Rioja,,AR_Bonafide,-58.40572206303477,-34.6365181915462
+9.0,Bonafide,Bonafide - Shopping Liniers,,AR_Bonafide,-58.52663763798773,-34.64012861251831
+1.0,Bonafide,Bonafide - Tribunales,,AR_Bonafide,-58.38509143330157,-34.603485614061356
+1.0,Bonafide,Bonafide - Tribunales II,,AR_Bonafide,-58.38557003997266,-34.59856987930834
+14.0,Bonafide,Bonafide - Vidt,,AR_Bonafide,-58.41266890056431,-34.58738842047751
+11.0,Bonafide,Bonafide - Villa del Parque,,AR_Bonafide,-58.497212966904044,-34.59885997697711
+11.0,Bonafide,Bonafide - Villa del Parque.,,AR_Bonafide,-58.49222598597407,-34.61276287212968
+8.0,Bonafide,Bonafide - Villa Lugano,,AR_Bonafide,-58.47536947578192,-34.677264634519815
+12.0,Bonafide,Bonafide - Villa Pueyrredon,,AR_Bonafide,-58.497815961018205,-34.58345152437687
+12.0,Bonafide,Bonafide - Villa Urquiza,,AR_Bonafide,-58.487292900681496,-34.5747656095773
+3.0,Cafe Martinez,Cafe Martinez - Abasto,,AR_Cafe Martinez,-58.41183280572295,-34.604001520201564
+10.0,Cafe Martinez,Cafe Martinez - Alvarez Jonte,Servicios: Wi-Fi,AR_Cafe Martinez,-58.503924272954464,-34.618855845183134
+2.0,Cafe Martinez,Cafe Martinez - Arenales,Horario: Lunes a Sabado 7:30 a 22:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.394665494561195,-34.59463734179735
+7.0,Cafe Martinez,Cafe Martinez - Asamblea,,AR_Cafe Martinez,-58.436274686828256,-34.63478053919971
+1.0,Cafe Martinez,Cafe Martinez - Av. Alem 699,Servicios: Wi-Fi,AR_Cafe Martinez,-58.370570205152035,-34.59952214732766
+1.0,Cafe Martinez,Cafe Martinez - Av. Alem 756,Servicios: Wi-Fi,AR_Cafe Martinez,-58.371207900345325,-34.598852852359414
+1.0,Cafe Martinez,Cafe Martinez - Av. Belgrano,Servicios: Wi-Fi,AR_Cafe Martinez,-58.39138062670827,-34.613743387162685
+5.0,Cafe Martinez,Cafe Martinez - Av. Boedo,,AR_Cafe Martinez,-58.41643908061087,-34.62273398414254
+14.0,Cafe Martinez,Cafe Martinez - Av. Cabildo 1253,Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.44862047582865,-34.568018931895494
+13.0,Cafe Martinez,Cafe Martinez - Av. Cabildo 2733,Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.46134998835623,-34.55663999542594
+13.0,Cafe Martinez,Cafe Martinez - Av. Cabildo 3565,,AR_Cafe Martinez,-58.46731069497764,-34.54994176514447
+3.0,Cafe Martinez,Cafe Martinez - Av. Callao 156,Horario: Lunes a Viernes 7:30 a 21:00 hs.  Sabado 8:30 a 21:00 hs.  Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.39215813204646,-34.60734698921442
+3.0,Cafe Martinez,Cafe Martinez - Av. Callao 498,Horario: Lunes a Jueves 7:30 a 21:30 hs.  Viernes 7:30 a 22:30 hs.  Sabado 8:30 a 22:30 hs.  Domingo 8:30 a 21:30 hs.  Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.39247949421406,-34.603228624910116
+2.0,Cafe Martinez,Cafe Martinez - Av. Callao 858,Servicios: Wi-Fi,AR_Cafe Martinez,-58.39306052774191,-34.59911210462451
+7.0,Cafe Martinez,Cafe Martinez - Av. Carabobo,,AR_Cafe Martinez,-58.456495106220245,-34.62729927152395
+2.0,Cafe Martinez,Cafe Martinez - Av. Cordoba 1499,Horario: Lunes a Viernes 8:00 a 20:30 hs.  Sabado 9:00 a 18:00 hs.,AR_Cafe Martinez,-58.38807371445,-34.599255099892616
+2.0,Cafe Martinez,Cafe Martinez - Av. Cordoba 2015,Horario: Lunes a Sabado 7:30 a 22:00 hs.  Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.3960138913244,-34.59966958500445
+2.0,Cafe Martinez,Cafe Martinez - Av. Cordoba 2677,Servicios: Wi-Fi,AR_Cafe Martinez,-58.40515008196235,-34.59797392599285
+5.0,Cafe Martinez,Cafe Martinez - Av. Corrientes 3799,,AR_Cafe Martinez,-58.41795519925654,-34.60339793935418
+1.0,Cafe Martinez,Cafe Martinez - Av. Corrientes 450,Horario: Lunes a Viernes 7:00 a 20:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.37312350049615,-34.60323139093816
+1.0,Cafe Martinez,Cafe Martinez - Av. Corrientes 927,Servicios: Wi-Fi,AR_Cafe Martinez,-58.37988861836493,-34.603517381474376
+1.0,Cafe Martinez,Cafe Martinez - Av. de Mayo,Horario: Lunes a Sabado 7:00 a 21:00 hs.  Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.37632019072771,-34.60867250338197
+1.0,Cafe Martinez,Cafe Martinez - Av. Entre Rios,,AR_Cafe Martinez,-58.39152345433831,-34.620275404304266
+6.0,Cafe Martinez,Cafe Martinez - Av. Gaona,Servicios: Wi-Fi,AR_Cafe Martinez,-58.45598515123129,-34.61243061348796
+2.0,Cafe Martinez,Cafe Martinez - Av. Pueyrredon 1202,,AR_Cafe Martinez,-58.403186202049255,-34.596498124301434
+2.0,Cafe Martinez,Cafe Martinez - Av. Pueyrredon 2231,Horario: Lunes a Viernes 8:00 a 22:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.39688166975975,-34.58735095337033
+1.0,Cafe Martinez,Cafe Martinez - Av. Santa Fe,Horario: Lunes a Viernes 8:00 a 21:30 hs.  Sabado 8:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.38039387948811,-34.59531208500266
+1.0,Cafe Martinez,Cafe Martinez - Balcarce 420,Servicios: Wi-Fi,AR_Cafe Martinez,-58.370540868490934,-34.612588277086616
+4.0,Cafe Martinez,Cafe Martinez - Barracas,Servicios: Wi-Fi,AR_Cafe Martinez,-58.37484640069306,-34.637579172849655
+13.0,Cafe Martinez,Cafe Martinez - Barrancas de Belgrano,Servicios: Wi-Fi,AR_Cafe Martinez,-58.45126613974571,-34.558743266388774
+11.0,Cafe Martinez,Cafe Martinez - Beiro,,AR_Cafe Martinez,-58.52400572039187,-34.61320166476071
+13.0,Cafe Martinez,Cafe Martinez - Belgrano,Horario: Lunes a Domingo 7:30 a 21:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.463396430015564,-34.566066367551684
+14.0,Cafe Martinez,Cafe Martinez - Botanico,Servicios: Wi-Fi,AR_Cafe Martinez,-58.420008262619376,-34.58250101655722
+14.0,Cafe Martinez,Cafe Martinez - Bulnes,Horario: Domingo a Jueves 8:00 a 21:30 hs.  Viernes 8:00 a 23:00 hs.  Sabado 8:00 a 00:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.414204800501466,-34.59062710404396
+6.0,Cafe Martinez,Cafe Martinez - Caballito,Servicios: Wi-Fi,AR_Cafe Martinez,-58.44583248719573,-34.62249644100666
+1.0,Cafe Martinez,Cafe Martinez - Carlos Pellegrini,Servicios: Wi-Fi,AR_Cafe Martinez,-58.381027299910784,-34.60098143666983
+1.0,Cafe Martinez,Cafe Martinez - Cerrito,Servicios: Wi-Fi,AR_Cafe Martinez,-58.38280996307731,-34.59330000914633
+14.0,Cafe Martinez,Cafe Martinez - Cerviño,Horario: Lunes a Jueves 7:00 a 21:00 hs.  Viernes y Sabado 7:00 a 00:30 hs.  Domingo 8:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.40991452336311,-34.57988611422479
+1.0,Cafe Martinez,Cafe Martinez - Chacabuco 285,,AR_Cafe Martinez,-58.37629672139883,-34.61140810512006
+13.0,Cafe Martinez,Cafe Martinez - Colegiales,,AR_Cafe Martinez,-58.44777390360832,-34.574740966781974
+1.0,Cafe Martinez,Cafe Martinez - Diagonal Norte,Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.3828501123935,-34.60301513783634
+1.0,Cafe Martinez,Cafe Martinez - Florida 428,Servicios: Wi-Fi,AR_Cafe Martinez,-58.37527857162058,-34.602993596345186
+2.0,Cafe Martinez,Cafe Martinez - French,Horario: Lunes a Domingo 8:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.406896283850074,-34.586029881611466
+2.0,Cafe Martinez,Cafe Martinez - Galeria Santa Fe,Horario: Lunes a Sabado 8:30 a 20:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.39102188125253,-34.595894208177924
+6.0,Cafe Martinez,Cafe Martinez - Hortiguera,Horario: Lunes a Jueves 8:00 a 22:00 hs.  Viernes 8:00 a 23:00 hs.  Sabado 8:00 a 1:00 hs.  Domingo 8:30 a 23:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.44609282910824,-34.62594911456108
+5.0,Cafe Martinez,Cafe Martinez - Hospital Italiano,Servicios: Wi-Fi,AR_Cafe Martinez,-58.42564417049289,-34.6058716904372
+14.0,Cafe Martinez,Cafe Martinez - L.M. Campos,Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.44047276303172,-34.56537863239646
+13.0,Cafe Martinez,Cafe Martinez - La Pampa,Horario: Lunes a Sabado 7:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.451308719813824,-34.56319531425834
+14.0,Cafe Martinez,Cafe Martinez - Las Cañitas,Horario: Domingo a Jueves 7:30 a 22:30 hs.  Viernes y Sabado 7:30 a 1:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.43170277774334,-34.56904144026339
+7.0,Cafe Martinez,Cafe Martinez - Lautaro,Servicios: Wi-Fi,AR_Cafe Martinez,-58.455401100218296,-34.63185701519251
+1.0,Cafe Martinez,Cafe Martinez - Lavalle,Servicios: Wi-Fi,AR_Cafe Martinez,-58.373005064204335,-34.60200235247612
+2.0,Cafe Martinez,Cafe Martinez - M.T de Alvear,Horario: Lunes a Viernes 8:00 a 20:30 hs.  Sabado 8:00 a 19:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.400722509250045,-34.59654179401696
+1.0,Cafe Martinez,Cafe Martinez - Montevideo,Horario: Lunes a Viernes 8:00 a 20:30 hs.  Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.389470390975475,-34.60172474384308
+1.0,Cafe Martinez,Cafe Martinez - Paraguay y Esmeralda,Servicios: Wi-Fi,AR_Cafe Martinez,-58.3783065341413,-34.59759162738919
+6.0,Cafe Martinez,Cafe Martinez - Pedro Goyena,,AR_Cafe Martinez,-58.4315943159163,-34.625659603625536
+2.0,Cafe Martinez,Cafe Martinez - Recoleta Mall,Servicios: Wi-Fi,AR_Cafe Martinez,-58.393755136057734,-34.58898324519396
+1.0,Cafe Martinez,Cafe Martinez - Reconquista,Servicios: Wi-Fi,AR_Cafe Martinez,-58.37324487045407,-34.595721792429686
+1.0,Cafe Martinez,Cafe Martinez - Sarmiento,Horario: Lunes a Viernes 8:00 a 20:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.37712837383151,-34.604730075225234
+13.0,Cafe Martinez,Cafe Martinez - Sucre,Servicios: Wi-Fi,AR_Cafe Martinez,-58.445946061983705,-34.558624578639865
+1.0,Cafe Martinez,Cafe Martinez - Talcahuano,Horario: Lunes a Viernes 7:30 a 20:30 hs.  Sabado 8:00 a 20:30 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.38567783124745,-34.597633788362145
+1.0,Cafe Martinez,Cafe Martinez - UCA,,AR_Cafe Martinez,-58.36579956114292,-34.614371275529265
+14.0,Cafe Martinez,Cafe Martinez - Uriarte,Horario: Lunes a Domingo 7:00 a 22:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.42260397039354,-34.58070510998368
+1.0,Cafe Martinez,Cafe Martinez - Uruguay 463,Horario: Lunes a Viernes 7:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.38653211481869,-34.60317296907306
+2.0,Cafe Martinez,Cafe Martinez - Vicente Lopez 1601,Horario: Lunes a Domingo 8:00 a 21:00 hs.  Servicios: Wi-Fi,AR_Cafe Martinez,-58.38899974711239,-34.59241345524788
+11.0,Cafe Martinez,Cafe Martinez - Villa del Parque,Servicios: Wi-Fi,AR_Cafe Martinez,-58.496307637542486,-34.60014081560075
+11.0,Cafe Martinez,Cafe Martinez - Villa Devoto,Servicios: Wi-Fi,AR_Cafe Martinez,-58.51245051249862,-34.60080558434129
+12.0,Cafe Martinez,Cafe Martinez - Villa Urquiza,Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.48683566786349,-34.57707448862493
+6.0,Cafe Martinez,Cafe Martinez - Village Caballito,Horario: Lunes a Jueves 9:00 a 24:00 hs.  Viernes y Sabado 9:00 a 2:00 hs.  Domingo 10:00 a 24:00 hs.  Servicios: Wi-Fi y Sector Fumador,AR_Cafe Martinez,-58.43720608390868,-34.61834027431905
+13.0,Cafe Martinez,Cafe Martinez - Virrey del Pino,Servicios: Wi-Fi,AR_Cafe Martinez,-58.45629503019154,-34.56832671537995
+5.0,Cafeterias-Clasicas,12 de Octubre,,AR_Cafeterias-Clasicas,-58.41861099936068,-34.60712595842779
+1.0,Cafeterias-Clasicas,American Bar,,AR_Cafeterias-Clasicas,-58.39136201888323,-34.60157202556729
+5.0,Cafeterias-Clasicas,Bar Alenjo,,AR_Cafeterias-Clasicas,-58.4179400280118,-34.61220698431134
+9.0,Cafeterias-Clasicas,Bar Aragon,,AR_Cafeterias-Clasicas,-58.495279010385275,-34.644870003685355
+1.0,Cafeterias-Clasicas,Bar Britanico,Uno de los bares mas tradicionales de la zona y de Buenos Aires. Aunque de propietarios españoles su nombre recuerda los inmigrantes ingleses que se establecieron en la zona en la epoca de la construccion del ferrocarril.,AR_Cafeterias-Clasicas,-58.3712300285697,-34.62530203163624
+3.0,Cafeterias-Clasicas,Bar de Cao,,AR_Cafeterias-Clasicas,-58.40000099502504,-34.618617966771126
+2.0,Cafeterias-Clasicas,Bar del Hotel Alvear,,AR_Cafeterias-Clasicas,-58.38908507488668,-34.58769821561873
+5.0,Cafeterias-Clasicas,Bar Delu,Un bar y restaurante de comida tradicional porteña: pizza; parrilla y pastas. Es parte de una cadena con cinco locales en la ciudad,AR_Cafeterias-Clasicas,-58.41641996987164,-34.62225495837629
+4.0,Cafeterias-Clasicas,Bar El Estaño 1880,,AR_Cafeterias-Clasicas,-58.368303989991546,-34.63538998737931
+1.0,Cafeterias-Clasicas,Bar El Federal,,AR_Cafeterias-Clasicas,-58.37423896417022,-34.619669979438186
+2.0,Cafeterias-Clasicas,Bar La Biela,Se llama asi desde 1942 (antes era el Cafe Aero Bar)  cuando se convirtio en el punto de reunion de jovenes aficionados al automovilismo. Su exito impulso el desarrollo de muchos negocios gastronomicos frente al cementerio. En 1999 fue declarado Sitio de Interes Cultural por la Legislatura de la ciudad. El bar se ubica sobre la Avenida Quintana  que aparece en los planos de Cristobal Barrientos de 1772. Se la llamaba “la calle larga” porque no la cruzaba ninguna otra hasta la venida Callao,AR_Cafeterias-Clasicas,-58.390776040032506,-34.58779402077198
+4.0,Cafeterias-Clasicas,Bar La Perla,Uno de los bares con mas tradicion en la zona. Esta ubicado en una zona de galerias de arte; anticuarios y salas de exposicion.,AR_Cafeterias-Clasicas,-58.36187498643994,-34.639413971453905
+1.0,Cafeterias-Clasicas,Bar Los 36 billares,Inaugurado en 1894; “Los 36” es uno de los bares mas tradicionales de Buenos Aires y uno de los centros mas importantes de billar de todo el pais. Tiene mesas de pool; de snooker y; por supuesto; de billar.Subir,AR_Cafeterias-Clasicas,-58.38434502482414,-34.60923098959029
+5.0,Cafeterias-Clasicas,Bar Miño,Un tradicional bar y restaurante porteño. Venden una famosa pizza de diez porciones (la tradicional tiene ocho).Subir,AR_Cafeterias-Clasicas,-58.41598402708769,-34.625466987490654
+1.0,Cafeterias-Clasicas,Bar o Bar,,AR_Cafeterias-Clasicas,-58.37308201007545,-34.59791298955679
+9.0,Cafeterias-Clasicas,Bar Oviedo,,AR_Cafeterias-Clasicas,-58.50002098828554,-34.66266604140401
+1.0,Cafeterias-Clasicas,Bar Plaza Dorrego,,AR_Cafeterias-Clasicas,-58.37140202522278,-34.620649991557
+1.0,Cafeterias-Clasicas,Bar Seddon,,AR_Cafeterias-Clasicas,-58.371741995215416,-34.61594296619296
+1.0,Cafeterias-Clasicas,Bar Sur,,AR_Cafeterias-Clasicas,-58.370150020346045,-34.61843297816813
+1.0,Cafeterias-Clasicas,Britanico,,AR_Cafeterias-Clasicas,-58.37108602747321,-34.6253730263561
+11.0,Cafeterias-Clasicas,Cafe de Garcia,,AR_Cafeterias-Clasicas,-58.51052502170205,-34.60640695877373
+3.0,Cafeterias-Clasicas,Cafe de los Angelitos,Cena  Show de tangos. Lo habia fundado  por 1890 con el nombre de Bar Rivadavia un italiano llamado Batista Fazio. Primitivamente fue reducto de malandras y caferatas cuya traduccion del lunfa basico corresponde  mas o menos  a gente de mal vivir. Verdaderos `angelitos`  segun la socarrona afirmacion del comisario de Balvanera quien  sin saberlo  le estaba dando carta de bautismo a uno de los mas populares cafes de Buenos Aires,AR_Cafeterias-Clasicas,-58.39626903645694,-34.609503988176584
+11.0,Cafeterias-Clasicas,Cafe Don Juan,,AR_Cafeterias-Clasicas,-58.47808303311467,-34.61107802577317
+5.0,Cafeterias-Clasicas,Cafe El Banderin,,AR_Cafeterias-Clasicas,-58.415330993011594,-34.601747039705515
+6.0,Cafeterias-Clasicas,Cafe El Coleccionista,,AR_Cafeterias-Clasicas,-58.43467181548476,-34.617442237213254
+5.0,Cafeterias-Clasicas,Cafe Esquina Homero Manzi,,AR_Cafeterias-Clasicas,-58.416107995435596,-34.625445026904345
+1.0,Cafeterias-Clasicas,Cafe La Giralda,Centro de reunion de la intelectualidad porteña; muy visitado por estudiantes universitarios. Es uno de los pocos bares del centro que no fue reformado en la decada de 1990; conserva antiguas mesas de marmol y madera. El clasico de la casa es el chocolate con churros.,AR_Cafeterias-Clasicas,-58.38725899346173,-34.60399196483195
+1.0,Cafeterias-Clasicas,Cafe La Paz,Fue un bar emblematico en la decada de 1960 . En este cafe se reunieron escritores y musicos como David Viñas; Ricardo Piglia; Enrique “Mono” Villegas y Rodolfo Walsh.,AR_Cafeterias-Clasicas,-58.38923301547766,-34.60406203754246
+1.0,Cafeterias-Clasicas,Cafe Los Galgos,,AR_Cafeterias-Clasicas,-58.392366003245115,-34.603142039850354
+1.0,Cafeterias-Clasicas,Cafe Mar Azul,,AR_Cafeterias-Clasicas,-58.39127300307155,-34.60195600055158
+5.0,Cafeterias-Clasicas,Cafe Margot,Un restaurante de ambiente tipicamente porteño. Es muy visitado por sus picadas que se pueden acompañar con sidra o cerveza tirada,AR_Cafeterias-Clasicas,-58.41630698181689,-34.623319040983915
+2.0,Cafeterias-Clasicas,Cafe Nostalgia,,AR_Cafeterias-Clasicas,-58.41437101364136,-34.59402898326516
+1.0,Cafeterias-Clasicas,Cafe Retiro,,AR_Cafeterias-Clasicas,-58.374595027416945,-34.59162203595042
+1.0,Cafeterias-Clasicas,Cafe Tortoni,Fundado en 1858 por un inmigrante frances es el cafe mas antiguo de Buenos Aires. Se encuentra en su ubicacion actual desde 1880 (al principio funcionaba en la esquina).En 1898 se abrio la magnifica puerta sobre Avenida de Mayo. La fachada es obra del arquitecto Alejandro Christophersen.Dos decadas mas tarde el Tortoni ya era centro de reunion de la intelectualidad porteña. En el interior del cafe –habitualmente colmado de porteños y de extranjeros– cuadros poemas y bustos dan cuenta de su historia.En el Tortoni se presentan espectaculos de jazz y de tango; al fondo se puede jugar al pool. En su menu subsisten algunas bebidas en extincion como la leche merengada.,AR_Cafeterias-Clasicas,-58.3781580068171,-34.608798986300826
+3.0,Cafeterias-Clasicas,Carlitos,,AR_Cafeterias-Clasicas,-58.401841996237636,-34.621042013168335
+1.0,Cafeterias-Clasicas,Claridge,,AR_Cafeterias-Clasicas,-58.37445597164333,-34.60097003728151
+2.0,Cafeterias-Clasicas,Clasica y Moderna,,AR_Cafeterias-Clasicas,-58.39304896071553,-34.59877297282219
+1.0,Cafeterias-Clasicas,Confiteria Hotel Castelar,,AR_Cafeterias-Clasicas,-58.38263503275812,-34.60915102623403
+1.0,Cafeterias-Clasicas,Confiteria Iberia,,AR_Cafeterias-Clasicas,-58.38334699161351,-34.60919503122568
+1.0,Cafeterias-Clasicas,Confiteria Ideal,,AR_Cafeterias-Clasicas,-58.3794619794935,-34.60378300398588
+5.0,Cafeterias-Clasicas,Confiteria Las Violetas,,AR_Cafeterias-Clasicas,-58.421008978039026,-34.611436016857624
+1.0,Cafeterias-Clasicas,Confiteria London City,“El London” se inauguro en 1954 y desde entonces lo visitan politicos artistas y empleados que trabajan en el centro. En sus mesas el escritor argentino Julio Cortazar escribio su novela Los premios que en la primera pagina dice “Era en el London de Peru y Avenida,AR_Cafeterias-Clasicas,-58.3749339915812,-34.608583990484476
+1.0,Cafeterias-Clasicas,Confiteria Richmond,,AR_Cafeterias-Clasicas,-58.37527496740222,-34.60257701575756
+5.0,Cafeterias-Clasicas,Confiteria Trianon,Se inauguro en 1940 y enseguida se hizo popular entre intelectuales y artistas. Funciona como cafe; restaurante y pizzeria; pero su plato mas famoso es el sand,AR_Cafeterias-Clasicas,-58.41632701456547,-34.62313296273351
+1.0,Cafeterias-Clasicas,El Federal,,AR_Cafeterias-Clasicas,-58.37146606296301,-34.61943922564387
+1.0,Cafeterias-Clasicas,El Gato Negro,,AR_Cafeterias-Clasicas,-58.390388963744044,-34.604308968409896
+1.0,Cafeterias-Clasicas,El Hipopotamo,,AR_Cafeterias-Clasicas,-58.371114023029804,-34.62537797167897
+14.0,Cafeterias-Clasicas,El Preferido de Palermo,,AR_Cafeterias-Clasicas,-58.42529598623514,-34.58550198934972
+4.0,Cafeterias-Clasicas,El Progreso,,AR_Cafeterias-Clasicas,-58.37306700646877,-34.646675968542695
+1.0,Cafeterias-Clasicas,El Querandi,,AR_Cafeterias-Clasicas,-58.37477398104966,-34.61151002906263
+5.0,Cafeterias-Clasicas,Esquina Osvaldo Pugliese ( ex Bar Recuerdo),Esta casa de tango funciona en el local del antiguo Bar Alabama frecuentemente visitado por Osvaldo Pugliese una de las figuras principales de la musica porteña.Pugliese (1905-1995) fue pianista director y compositor. El estilo de su orquesta es una de las mayores influencias en el tango hasta el dia de hoy. Entre sus temas mas famosos estan “Recuerdo” “Negracha” y “La yumba”.“Recuerdo” es el nombre del primer tango publicado por Osvaldo Pugliese.,AR_Cafeterias-Clasicas,-58.416231041774154,-34.62399596348405
+1.0,Cafeterias-Clasicas,Florida Garden,,AR_Cafeterias-Clasicas,-58.37537404149771,-34.59750101901591
+2.0,Cafeterias-Clasicas,Iberia,,AR_Cafeterias-Clasicas,-58.38908507488668,-34.58769821561873
+4.0,Cafeterias-Clasicas,La Buena Medida,,AR_Cafeterias-Clasicas,-58.354914989322424,-34.63370002806187
+1.0,Cafeterias-Clasicas,La Coruña,,AR_Cafeterias-Clasicas,-58.37293398566544,-34.619388012215495
+1.0,Cafeterias-Clasicas,La Embajada,,AR_Cafeterias-Clasicas,-58.384801000356674,-34.60971001535654
+7.0,Cafeterias-Clasicas,La Farmacia bar cafe,,AR_Cafeterias-Clasicas,-58.46075504086912,-34.6335309650749
+4.0,Cafeterias-Clasicas,La Perla,,AR_Cafeterias-Clasicas,-58.361814972013235,-34.639366026967764
+1.0,Cafeterias-Clasicas,La Poesia,,AR_Cafeterias-Clasicas,-58.3731400128454,-34.61604497395456
+1.0,Cafeterias-Clasicas,La Puerto Rico,,AR_Cafeterias-Clasicas,-58.372319005429745,-34.61017998866737
+1.0,Cafeterias-Clasicas,Le Caravelle,,AR_Cafeterias-Clasicas,-58.377048997208476,-34.60232597775757
+1.0,Cafeterias-Clasicas,London City,,AR_Cafeterias-Clasicas,-58.3749339915812,-34.608583990484476
+4.0,Cafeterias-Clasicas,Los Laureles,,AR_Cafeterias-Clasicas,-58.379476983100176,-34.649468986317515
+3.0,Cafeterias-Clasicas,Miramar,,AR_Cafeterias-Clasicas,-58.39377198368311,-34.622760973870754
+10.0,Cafeterias-Clasicas,Olimpo,,AR_Cafeterias-Clasicas,-58.518375009298325,-34.62689702399075
+1.0,Cafeterias-Clasicas,Petit Colon,,AR_Cafeterias-Clasicas,-58.38375996798277,-34.602563017979264
+1.0,Cafeterias-Clasicas,Plaza Bar,,AR_Cafeterias-Clasicas,-58.37505200877786,-34.595607966184616
+1.0,Cafeterias-Clasicas,Saint Moritz,,AR_Cafeterias-Clasicas,-58.37838901206851,-34.597751973196864
+1.0,Cafeterias-Clasicas,The Brighton,,AR_Cafeterias-Clasicas,-58.37579598650336,-34.60461398586631
+11.0,Cafeterias-Clasicas,Tokio,,AR_Cafeterias-Clasicas,-58.491670014336705,-34.61243798956275
+14.0,Cerveceria Antares,Antares - Las Cañitas,,AR_Cerveceria Antares,-58.43138996511698,-34.57219999283552
+14.0,Cerveceria Antares,Antares - Palermo,,AR_Cerveceria Antares,-58.429709980264306,-34.59107997827232
+1.0,Cerveceria Antares,Antares - San Telmo,,AR_Cerveceria Antares,-58.37330622598529,-34.613657305017114
+1.0,Chocolates y Alfajores,Abuela Goye - Florida y Lavalle,,AR_Chocolates y Alfajores,-58.37535568512976,-34.6021830663085
+1.0,Chocolates y Alfajores,Abuela Goye - Galerias Pacifico,,AR_Chocolates y Alfajores,-58.374523781239986,-34.599329782649875
+1.0,Chocolates y Alfajores,Abuela Goye - Plaza de Mayo,,AR_Chocolates y Alfajores,-58.37247499264777,-34.60896293632686
+1.0,Chocolates y Alfajores,Abuela Goye - Puerto Madero,,AR_Chocolates y Alfajores,-58.36702365428209,-34.604025576263666
+14.0,Chocolates y Alfajores,Carmesi chocolates,,AR_Chocolates y Alfajores,-58.409961797297,-34.58006523549557
+13.0,Chocolates y Alfajores,Mamuschka1,,AR_Chocolates y Alfajores,-58.45579848624766,-34.56436215899885
+5.0,Chungo,Chungo - Almagro,,AR_Chungo,-58.42300814576447,-34.612264232710004
+13.0,Chungo,Chungo - Belgrano I,,AR_Chungo,-58.453790014609694,-34.56697999499738
+13.0,Chungo,Chungo - Belgrano II,,AR_Chungo,-58.457700004801154,-34.56076003611088
+13.0,Chungo,Chungo - Belgrano III,,AR_Chungo,-58.4540141467005,-34.553547240793705
+6.0,Chungo,Chungo - Caballito,,AR_Chungo,-58.4456130489707,-34.62423610500991
+1.0,Chungo,Chungo - Centro,,AR_Chungo,-58.37993974797428,-34.60363975726068
+11.0,Chungo,Chungo - Devoto Shopping,,AR_Chungo,-58.517259964719415,-34.61192996241152
+14.0,Chungo,Chungo - Palermo Chico,,AR_Chungo,-58.40763841755688,-34.58172384649515
+14.0,Chungo,Chungo - Palermo Hollywood,,AR_Chungo,-58.4337199665606,-34.58332998678088
+14.0,Chungo,Chungo - Palermo Nuevo,,AR_Chungo,-58.42364533804357,-34.57679604180157
+14.0,Chungo,Chungo - Palermo SOHO,,AR_Chungo,-58.43069979920983,-34.589157002046704
+14.0,Chungo,Chungo - Palermo Viejo,,AR_Chungo,-58.42390190809965,-34.58299563266337
+12.0,Chungo,Chungo - Saavedra,,AR_Chungo,-58.47429424524307,-34.54264632426202
+13.0,Chungo,Chungo - Showcase Cinema Belgrano,,AR_Chungo,-58.453146452084184,-34.554151156917214
+13.0,Chungo,Chungo - Sport Club Libertador,,AR_Chungo,-58.458829214796424,-34.54533942975104
+11.0,Chungo,Chungo - Villa del Parque,,AR_Chungo,-58.493497017771006,-34.60391401313245
+11.0,Chungo,Chungo - Villa Devoto,,AR_Chungo,-58.50933470763266,-34.59965206682682
+10.0,Chungo,Chungo - Villa Luro,,AR_Chungo,-58.50317752920091,-34.63887199759483
+12.0,Chungo,Chungo - Villa Pueyrredon,,AR_Chungo,-58.49884123541415,-34.58429340273142
+12.0,Chungo,Chungo - Villa Urquiza,,AR_Chungo,-58.48582170903683,-34.57650535739958
+13.0,Colonial,Colonial - Belgrano,Wi-Fi,AR_Colonial,-58.45992003567517,-34.563890006393194
+14.0,Colonial,Colonial - Belgrano II,Wi-Fi,AR_Colonial,-58.44374002888799,-34.5672900415957
+5.0,Cremolatti,Cremolatti - Almagro,,AR_Cremolatti,-58.42110000550747,-34.611459989100695
+13.0,Cremolatti,Cremolatti - Belgrano,,AR_Cremolatti,-58.45872997306287,-34.56317997537553
+6.0,Cremolatti,Cremolatti - Caballito,,AR_Cremolatti,-58.43459998257458,-34.623060040175915
+1.0,Cremolatti,Cremolatti - Constitución,,AR_Cremolatti,-58.38440001010895,-34.62698000483215
+1.0,Cremolatti,Cremolatti - Monserrat,,AR_Cremolatti,-58.384575275704265,-34.6132558118552
+13.0,Cremolatti,Cremolatti - Nuñez,,AR_Cremolatti,-58.45979003235698,-34.54478002153337
+12.0,Cremolatti,Cremolatti - Olazábal,,AR_Cremolatti,-58.4867400303483,-34.576910035684705
+10.0,Cremolatti,Cremolatti - Villa Luro,,AR_Cremolatti,-58.49961002357304,-34.63646002113819
+12.0,Cremolatti,Cremolatti - Villa Urquiza,,AR_Cremolatti,-58.505250038579106,-34.57213000394404
+2.0,Daniel,Daniel - Barrio Norte,Horario: Lunes a Jueves 12:00 a 1:00 hs.   Viernes 12:00 a 2:00 hs.   Sabado 11:00 a 2:00 hs.   Domingo 11:00 a 1:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.40422899462283,-34.59517135284841
+13.0,Daniel,Daniel - Belgrano,Horario: Lunes a Jueves 13:00 a 24:00 hs.   Viernes y Sabado 23:00 a 1:00 hs.   Domingo 12:00 a 24:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.457367327064276,-34.559414153918624
+13.0,Daniel,Daniel - Colegiales,Horario: Lunes a Jueves 13:00 a 24:00 hs.   Viernes y Sabado 11:00 a 1:00 hs.   Domingo 12:00 a 24:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.44674636609852,-34.56958718597889
+2.0,Daniel,Daniel - Coronel Diaz,Horario: Lunes y Martes 13:00 a 24:00 hs.   Miercoles 13:00 a 1:00 hs.   Jueves 12:00 a 1:00 hs.   Viernes 12:00 a 2:00 hs.   Sabado 11:00 a 2:00 hs.   Domingo 11:00 a 1:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.41420496813953,-34.593914318829775
+14.0,Daniel,Daniel - Las Cañitas,Horario: Lunes a Viernes 13:00 a 24:00 hs.   Sabado 12:00 a 1:00 hs.   Domingo 12:00 a 24:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.432520097121596,-34.573534643277526
+13.0,Daniel,Daniel - Nuñez,Horario: Lunes a Jueves 14:00 a 24:00 hs.   Viernes y Sabado 12:00 a 1:00 hs.   Domingo 11:00 a 24:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.47213003784418,-34.54369003884494
+14.0,Daniel,Daniel - Palermo,Horario: Lunes a Jueves 13:00 a 1:00 hs.   Viernes y Sabado 12:00 a 2:30 hs.   Domingo 12:00 a 24:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.4243830293417,-34.58742463029921
+2.0,Daniel,Daniel - Recoleta,Horario: Lunes y Martes 13:00 a 24:00 hs.   Miercoles 13:00 a 1:00 hs.   Jueves 12:00 a 1:00 hs.   Viernes 11:00 a 1:00 hs.   Sabado 11:00 a 2:00 hs.   Domingo 11:00 a 1:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.402780098840594,-34.58852064795792
+12.0,Daniel,Daniel - Villa Urquiza,Horario: Domingo a Jueves 12:00 a 24:00 hs.   Viernes y Sabado 12:00 a 1:00 hs.   Servicios: Wi-Fi,AR_Daniel,-58.48732081241906,-34.57826119847596
+2.0,Delicity,Delicity - Callao,,AR_Delicity,-58.390351328998804,-34.59054320119321
+3.0,Delicity,Delicity - Clínicas,,AR_Delicity,-58.40015488676727,-34.59967251867056
+5.0,Delicity,Delicity - Corrientes,,AR_Delicity,-58.41961515136063,-34.60339592769742
+13.0,Delicity,Delicity - Echeverría,,AR_Delicity,-58.46440033055842,-34.56809839233756
+2.0,Delicity,Delicity - Ecuador,,AR_Delicity,-58.40364636853337,-34.59401372820139
+14.0,Delicity,Delicity - French,,AR_Delicity,-58.41211946681142,-34.58274157717824
+14.0,Delicity,Delicity - Godoy Cruz,,AR_Delicity,-58.4233935456723,-34.57677248865366
+2.0,Delicity,Delicity - Güemes,,AR_Delicity,-58.40988703072071,-34.59128583781421
+14.0,Delicity,Delicity - Julián Alvarez,,AR_Delicity,-58.41407219879329,-34.5863302052021
+2.0,Delicity,Delicity - Juncal,,AR_Delicity,-58.40832766145468,-34.58664050325751
+13.0,Delicity,Delicity - Montañeses,,AR_Delicity,-58.45147325657308,-34.554586010053754
+2.0,Delicity,Delicity - Paraguay,,AR_Delicity,-58.41354589909315,-34.59314829669893
+1.0,Delicity,Delicity - Retiro,,AR_Delicity,-58.37782231159508,-34.59121928550303
+2.0,Delicity,Delicity - Riobamba,,AR_Delicity,-58.39483028277755,-34.59735265932977
+13.0,Delicity,Delicity - Sucre,,AR_Delicity,-58.45593829639256,-34.56450213678181
+4.0,El Piave,El Piave - Barracas,,AR_El Piave,-58.374380031600595,-34.63961002416909
+13.0,Emede,Emede - Belgrano R,,AR_Emede,-58.46373874694109,-34.56767259165645
+1.0,Estab-Gral-de-Cafe,Establecimiento Gral. de Café I,Horarios: Lunes a Viernes 8:00 a 19:00 hs.,AR_Estab-Gral-de-Cafe,-58.38819810189307,-34.60298119112849
+1.0,Estab-Gral-de-Cafe,Establecimiento Gral. de Café II,Horarios: Lunes a Viernes 8:00 a 19:00 hs.,AR_Estab-Gral-de-Cafe,-58.39123000390828,-34.60307003930211
+2.0,Estab-Gral-de-Cafe,Establecimiento Gral. de Café III,Horario: Lunes a Viernes 8:00 a 20:30 hs.   Sábado 8:00 a 19:30 hs.,AR_Estab-Gral-de-Cafe,-58.401701180264354,-34.593116864562035
+1.0,Estab-Gral-de-Cafe,Establecimiento Gral. de Café IV,Horarios: Lunes a Viernes 7:30 a 19:00 hs.,AR_Estab-Gral-de-Cafe,-58.386179991066456,-34.60156003944576
+1.0,Estab-Gral-de-Cafe,Establecimiento Gral. de Café V,Horario: Lunes a Viernes 8:00 a 20:30 hs.   Sábado 9:00 a 17:00 hs.,AR_Estab-Gral-de-Cafe,-58.37255998514593,-34.60091999731958
+3.0,Freddo,Freddo - Abasto Cafe,,AR_Freddo,-58.41086218133569,-34.602912459522486
+3.0,Freddo,Freddo - Abasto Cines,,AR_Freddo,-58.41030285693705,-34.60306065157056
+14.0,Freddo,Freddo - Alto Palermo,,AR_Freddo,-58.40993983671069,-34.58834144286811
+2.0,Freddo,Freddo - Anchorena,,AR_Freddo,-58.400120018050075,-34.58936998620629
+2.0,Freddo,Freddo - Arenales,,AR_Freddo,-58.393139988183975,-34.59481998346746
+2.0,Freddo,Freddo - Ayacucho,,AR_Freddo,-58.389949165284634,-34.588282853364944
+14.0,Freddo,Freddo - Botanico,,AR_Freddo,-58.41787749901414,-34.58398268558085
+14.0,Freddo,Freddo - Cabildo y Lacroze,,AR_Freddo,-58.44488063827157,-34.5698594301939
+13.0,Freddo,Freddo - Cabildo y Monroe,,AR_Freddo,-58.460430493578315,-34.55764909274876
+14.0,Freddo,Freddo - Cerviño,,AR_Freddo,-58.409703467041254,-34.57995970733464
+13.0,Freddo,Freddo - Colegiales,,AR_Freddo,-58.45838958397508,-34.57104471512139
+13.0,Freddo,Freddo - Cramer,,AR_Freddo,-58.46059637144208,-34.5656858291477
+14.0,Freddo,Freddo - Distrito Arcos,,AR_Freddo,-58.428223533555865,-34.58100610412657
+12.0,Freddo,Freddo - DOT BAires,,AR_Freddo,-58.487849961966276,-34.54586002975702
+7.0,Freddo,Freddo - Flores,,AR_Freddo,-58.459849962964654,-34.62789002805948
+1.0,Freddo,Freddo - Galerias Pacifico,,AR_Freddo,-58.375130547210574,-34.59908067248762
+2.0,Freddo,Freddo - Guido,,AR_Freddo,-58.39228997938335,-34.58828997798264
+13.0,Freddo,Freddo - Jose Hernandez,,AR_Freddo,-58.45336999744177,-34.56566001288593
+14.0,Freddo,Freddo - Lafinur,,AR_Freddo,-58.412631936371326,-34.576114509254694
+14.0,Freddo,Freddo - Las Cañitas,,AR_Freddo,-58.43169925734401,-34.57180109806359
+14.0,Freddo,Freddo - Libertador,,AR_Freddo,-58.43962702900171,-34.56291804090142
+13.0,Freddo,Freddo - Libertador y Juramento,,AR_Freddo,-58.44769938848913,-34.556597247719765
+1.0,Freddo,Freddo - Madero Este,,AR_Freddo,-58.3619599789381,-34.6157699637115
+9.0,Freddo,Freddo - Mataderos,,AR_Freddo,-58.523895498365164,-34.6559439226985
+2.0,Freddo,Freddo - Montevideo,,AR_Freddo,-58.38988998904824,-34.595839977264404
+12.0,Freddo,Freddo - Nuñez,,AR_Freddo,-58.472815342247486,-34.542972883209586
+13.0,Freddo,Freddo - Obligado,,AR_Freddo,-58.45618078485131,-34.56181741319597
+14.0,Freddo,Freddo - Palermo Hollywood,,AR_Freddo,-58.436858570203185,-34.581312546506524
+1.0,Freddo,Freddo - Patio Bullrich,,AR_Freddo,-58.38389148004353,-34.588552666828036
+14.0,Freddo,Freddo - Portal Palermo,,AR_Freddo,-58.4266400244087,-34.573969999328256
+1.0,Freddo,Freddo - Puerto Viamonte,,AR_Freddo,-58.36732875555754,-34.60160027258098
+2.0,Freddo,Freddo - Recoleta Mall,,AR_Freddo,-58.393667712807655,-34.58932841196656
+1.0,Freddo,Freddo - Reconquista,,AR_Freddo,-58.372946390882134,-34.59788172505796
+1.0,Freddo,Freddo - San Telmo,,AR_Freddo,-58.37164996191859,-34.6185000333935
+14.0,Freddo,Freddo - Solar de la Abadia,,AR_Freddo,-58.43706996180117,-34.56753998994827
+11.0,Freddo,Freddo - Villa del Parque,,AR_Freddo,-58.49722000770271,-34.59868001751602
+12.0,Freddo,Freddo - Villa Urquiza,,AR_Freddo,-58.48480842076242,-34.57593463361263
+6.0,Freddo,Freddo - Village Caballito,,AR_Freddo,-58.437493331730366,-34.61844806559384
+3.0,Havanna,Havanna - Abasto Shopping,,AR_Havanna,-58.41092471033335,-34.60347563959658
+6.0,Havanna,Havanna - Acoyte y Rivadavia,,AR_Havanna,-58.43636001460254,-34.61819996125996
+14.0,Havanna,Havanna - Aeroparque,,AR_Havanna,-58.41470008715987,-34.55724868923426
+14.0,Havanna,Havanna - Alto Palermo Shopping,,AR_Havanna,-58.410560013726354,-34.58805997855961
+2.0,Havanna,Havanna - Anchorena,,AR_Havanna,-58.40503726154566,-34.59346706047654
+13.0,Havanna,Havanna - Arcos,,AR_Havanna,-58.45144324935973,-34.56324527040124
+11.0,Havanna,Havanna - Av. Beiro,,AR_Havanna,-58.52488514967263,-34.61388831026852
+13.0,Havanna,Havanna - Av. Cabildo y Congreso,,AR_Havanna,-58.46205146983266,-34.55610162578523
+14.0,Havanna,Havanna - Av. Cabildo y Lacroze,,AR_Havanna,-58.44522999599576,-34.56970000639558
+1.0,Havanna,Havanna - Av. Callao,,AR_Havanna,-58.392060147598386,-34.606846338137984
+2.0,Havanna,Havanna - Av. Cordoba y Rodriguez Peña,,AR_Havanna,-58.39152001775801,-34.59950999356806
+1.0,Havanna,Havanna - Av. Cordoba y Suipacha,,AR_Havanna,-58.380249962210655,-34.59892996586859
+1.0,Havanna,Havanna - Av. Corrientes y Esmeralda,,AR_Havanna,-58.37774905376136,-34.60340020246804
+1.0,Havanna,Havanna - Av. Corrientes y Libertad,,AR_Havanna,-58.38406004011631,-34.60380001924932
+1.0,Havanna,Havanna - Av. Corrientes y Parana,,AR_Havanna,-58.38821000419557,-34.60403001867235
+3.0,Havanna,Havanna - Av. Corrientes y Uriburu,,AR_Havanna,-58.398169968277216,-34.60450996644795
+5.0,Havanna,Havanna - Av. Corrientes y Yatay,,AR_Havanna,-58.429449973627925,-34.60227996110916
+1.0,Havanna,Havanna - Av. de Mayo y Peru,,AR_Havanna,-58.37512996047735,-34.608599999919534
+13.0,Havanna,Havanna - Av. del Libertador y Echeverria,,AR_Havanna,-58.44680587761104,-34.55785377882421
+2.0,Havanna,Havanna - Av. Pueyrredon y French,,AR_Havanna,-58.400399973616004,-34.59012997336686
+6.0,Havanna,Havanna - Av. Rivadavia y El Maestro,,AR_Havanna,-58.43130002729595,-34.616059977561235
+7.0,Havanna,Havanna - Av. Rivadavia y Gavilan,,AR_Havanna,-58.45947998575866,-34.62773001752794
+5.0,Havanna,Havanna - Av. Rivadavia y Medrano,,AR_Havanna,-58.420040030032396,-34.61125999689102
+3.0,Havanna,Havanna - Av. Rivadavia y Paso,,AR_Havanna,-58.40326566249132,-34.6100452914834
+2.0,Havanna,Havanna - Av. Santa Fe y Billinghurst,,AR_Havanna,-58.40950992889702,-34.58960987627506
+1.0,Havanna,Havanna - Av. Santa Fe y Carlos Pellegrini,,AR_Havanna,-58.38140741921961,-34.595355251803994
+2.0,Havanna,Havanna - Av. Santa Fe y Uriburu,,AR_Havanna,-58.39881998486817,-34.59533002227545
+14.0,Havanna,Havanna - Av. Scalabrini Ortiz y Guemes,,AR_Havanna,-58.41734457761049,-34.5860764849931
+1.0,Havanna,Havanna - Carlos Pellegrini y Mitre,,AR_Havanna,-58.38069001212716,-34.606969971209764
+13.0,Havanna,Havanna - Colegiales,,AR_Havanna,-58.450651997700334,-34.57743465900421
+13.0,Havanna,Havanna - Colegiales.,,AR_Havanna,-58.459901344031096,-34.57452127709985
+11.0,Havanna,Havanna - Del Parque Shopping,,AR_Havanna,-58.49442673847079,-34.60190302692354
+11.0,Havanna,Havanna - Devoto Shopping,,AR_Havanna,-58.51784996688366,-34.6112800296396
+14.0,Havanna,Havanna - Distrito Arcos,,AR_Havanna,-58.42793402262032,-34.5807437505573
+12.0,Havanna,Havanna - Dot Baires,,AR_Havanna,-58.488382548093796,-34.54607795923948
+13.0,Havanna,Havanna - Echeverria y Ciudad de la Paz,,AR_Havanna,-58.456929959356785,-34.56353997811675
+1.0,Havanna,Havanna - Estacion Constitucion,,AR_Havanna,-58.38030737824738,-34.62797233834863
+3.0,Havanna,Havanna - Estacion Once,,AR_Havanna,-58.406269988045096,-34.60862849839032
+1.0,Havanna,Havanna - Florida y Tucuman,,AR_Havanna,-58.37540999986231,-34.601040026172996
+1.0,Havanna,Havanna - Galeria Guemes,,AR_Havanna,-58.375029964372516,-34.60619003511965
+1.0,Havanna,Havanna - Galerias Pacifico,,AR_Havanna,-58.37448002770543,-34.59889995865524
+3.0,Havanna,Havanna - Hospital de Clinicas,,AR_Havanna,-58.40075000189245,-34.59957000799477
+5.0,Havanna,Havanna - Hospital Italiano,,AR_Havanna,-58.42619989067316,-34.60586532019079
+13.0,Havanna,Havanna - Juramento y Cabildo,,AR_Havanna,-58.456329982727766,-34.56188002601266
+13.0,Havanna,Havanna - Juramento y O'Higgins,,AR_Havanna,-58.452959368005395,-34.55989661626518
+4.0,Havanna,Havanna - La Boca,,AR_Havanna,-58.36211680434644,-34.639440793544054
+1.0,Havanna,Havanna - La Nacion,,AR_Havanna,-58.369227005168796,-34.600586984306574
+4.0,Havanna,Havanna - La Rioja y Caseros,,AR_Havanna,-58.40569213964045,-34.63702328503132
+9.0,Havanna,Havanna - Liniers,,AR_Havanna,-58.52694047614932,-34.64033002965152
+1.0,Havanna,Havanna - Marcelo T. Alvear y Reconquista,,AR_Havanna,-58.373070023953915,-34.59619998000562
+9.0,Havanna,Havanna - Mataderos,,AR_Havanna,-58.50563426502049,-34.65444523841143
+14.0,Havanna,Havanna - Palermo SOHO,,AR_Havanna,-58.42635185457766,-34.58873312920332
+8.0,Havanna,Havanna - Parque Brown Factory,,AR_Havanna,-58.45931997522712,-34.67516999691725
+7.0,Havanna,Havanna - Parque Chacabuco,,AR_Havanna,-58.43659303151071,-34.634724548086524
+14.0,Havanna,Havanna - Paseo Alcorta,,AR_Havanna,-58.40438003651798,-34.57465002313256
+1.0,Havanna,Havanna - Paseo La Recova,,AR_Havanna,-58.38184998370707,-34.59015000611544
+1.0,Havanna,Havanna - Patio Bullrich,,AR_Havanna,-58.38375326246023,-34.58837119862437
+14.0,Havanna,Havanna - Plaza Italia,,AR_Havanna,-58.42175002209842,-34.58123995922506
+1.0,Havanna,Havanna - Plaza San Martin,,AR_Havanna,-58.374339966103435,-34.59461001679301
+14.0,Havanna,Havanna - Portal Palermo,,AR_Havanna,-58.42624389566481,-34.574587661772966
+1.0,Havanna,Havanna - Puerto Madero Norte,,AR_Havanna,-58.36495223455131,-34.600665774196386
+1.0,Havanna,Havanna - Puerto Madero Sur,,AR_Havanna,-58.36543000303209,-34.62005001492798
+2.0,Havanna,Havanna - Recoleta.,,AR_Havanna,-58.392429957166314,-34.58857663907111
+2.0,Havanna,Havanna - Rodriguez Peña y Arenales,,AR_Havanna,-58.39201002381742,-34.59490003064275
+1.0,Havanna,Havanna - San Telmo.,,AR_Havanna,-58.37136774323881,-34.620545636862516
+14.0,Havanna,Havanna - Solar de la Abadia,,AR_Havanna,-58.43729845248163,-34.56770150922239
+14.0,Havanna,Havanna - Soldado de la Independencia y Jorge Newbery,,AR_Havanna,-58.434929978102446,-34.56731996499002
+1.0,Havanna,Havanna - Terminal de Retiro,,AR_Havanna,-58.37351845577359,-34.58711081184447
+1.0,Havanna,Havanna - Tribunales,,AR_Havanna,-58.38667997159064,-34.6006599906832
+13.0,Havanna,Havanna - Universidad de Belgrano,,AR_Havanna,-58.44366165809333,-34.56409452483058
+11.0,Havanna,Havanna - Villa Devoto,,AR_Havanna,-58.51261773146689,-34.60183471441269
+12.0,Havanna,Havanna - Villa Pueyrredon,,AR_Havanna,-58.4977160487324,-34.583415649831295
+12.0,Havanna,Havanna - Villa Urquiza,,AR_Havanna,-58.48583000712097,-34.57406999543309
+1.0,Helados Artesanales,Abuela Goye,,AR_Helados Artesanales,-58.37530396878719,-34.60215297527611
+1.0,Helados Artesanales,Abuela Goye1,,AR_Helados Artesanales,-58.37247499264777,-34.60896302014589
+1.0,Helados Artesanales,Arkakao,,AR_Helados Artesanales,-58.38681500405073,-34.590876968577504
+14.0,Helados Artesanales,Bianca Helados,,AR_Helados Artesanales,-58.41877503320575,-34.58699899725616
+14.0,Helados Artesanales,Bianca Helados1,,AR_Helados Artesanales,-58.41295497491956,-34.58702598698437
+1.0,Helados Artesanales,Dylan,,AR_Helados Artesanales,-58.374211974442005,-34.6206000354141
+11.0,Helados Artesanales,Heladeria Anta,,AR_Helados Artesanales,-58.48233207128942,-34.62319850921631
+13.0,Helados Artesanales,Heladeria Cabaña Tuyu - Belgrano I,,AR_Helados Artesanales,-58.45988793298602,-34.5741075463593
+14.0,Helados Artesanales,Heladeria Cabaña Tuyu - Belgrano II,,AR_Helados Artesanales,-58.44196138903499,-34.57135509699583
+13.0,Helados Artesanales,Heladeria Cabaña Tuyu - Belgrano III,,AR_Helados Artesanales,-58.45220290124416,-34.56497856415808
+12.0,Helados Artesanales,Heladeria Cabaña Tuyu - V.Urquiza,,AR_Helados Artesanales,-58.481632098555565,-34.572663931176066
+1.0,Helados Artesanales,Heladeria Cadore,,AR_Helados Artesanales,-58.39076397009194,-34.604350039735436
+11.0,Helados Artesanales,Heladeria Cadore1,,AR_Helados Artesanales,-58.49448801018298,-34.60238004103303
+5.0,Helados Artesanales,Heladeria Capricci - Almagro,,AR_Helados Artesanales,-58.41993190348148,-34.60722126066685
+14.0,Helados Artesanales,Heladeria Capricci - Palermo,,AR_Helados Artesanales,-58.43408013693988,-34.57701866514981
+11.0,Helados Artesanales,Heladeria Diecci,,AR_Helados Artesanales,-58.50897797383368,-34.60283501073718
+2.0,Helados Artesanales,Heladeria Fratello,,AR_Helados Artesanales,-58.41337826102972,-34.592924332246184
+14.0,Helados Artesanales,Heladeria Fratello1,,AR_Helados Artesanales,-58.41692573390901,-34.58936990238726
+7.0,Helados Artesanales,Heladeria Guindi,,AR_Helados Artesanales,-58.45820099115372,-34.64176903478801
+6.0,Helados Artesanales,Heladeria Las Malvinas,,AR_Helados Artesanales,-58.43342467211187,-34.60272797383368
+11.0,Helados Artesanales,Heladeria Monte Olivia,,AR_Helados Artesanales,-58.51245596073568,-34.60064297541976
+2.0,Helados Artesanales,Heladeria Plums1,,AR_Helados Artesanales,-58.40612699277699,-34.59092801436782
+3.0,Helados Artesanales,Heladeria Saverio,,AR_Helados Artesanales,-58.40381199494004,-34.62402395904064
+6.0,Helados Artesanales,Heladeria Saverio1,,AR_Helados Artesanales,-58.43552048318088,-34.62042133323848
+13.0,Helados Artesanales,Heladeria Saverio2,,AR_Helados Artesanales,-58.45076599158347,-34.56688703969121
+3.0,Helados Artesanales,Heladeria Sorrento,,AR_Helados Artesanales,-58.39559303596616,-34.60940902121365
+6.0,Helados Artesanales,Heladeria Tino,,AR_Helados Artesanales,-58.43072368763387,-34.60874936543405
+1.0,Helados Artesanales,Heladeria Vessa2,,AR_Helados Artesanales,-58.371696984395385,-34.61604497395456
+5.0,Helados Artesanales,Heladeria Vessa3,,AR_Helados Artesanales,-58.426742032170296,-34.627015963196754
+3.0,Helados Artesanales,Heladería Mocambo,,AR_Helados Artesanales,-58.39923497289419,-34.615154983475804
+1.0,Helados Artesanales,Heladería Peppino di Napoli,,AR_Helados Artesanales,-58.38120700791478,-34.59921000525355
+1.0,Helados Artesanales,Heladería Peppino di Napoli1,,AR_Helados Artesanales,-58.378659998998046,-34.62081603705883
+14.0,Helados Artesanales,Helados Jauja,,AR_Helados Artesanales,-58.41325496323407,-34.57851097919047
+11.0,Helados Artesanales,Helados Lado Bueno,,AR_Helados Artesanales,-58.47474401816726,-34.610727997496724
+1.0,Helados Artesanales,Nonna Bianca,,AR_Helados Artesanales,-58.37194802239537,-34.618485029786825
+14.0,Helados Artesanales,Yogur Helado - Top It,,AR_Helados Artesanales,-58.428287990391254,-34.59125800989568
+14.0,Helados Artesanales,Yogur Helado - Zog,,AR_Helados Artesanales,-58.425776017829776,-34.589047031477094
+14.0,Helados Artesanales,Yogur Helado Pinkfrost,,AR_Helados Artesanales,-58.437227038666606,-34.56821699626744
+14.0,La Veneciana,La Veneciana - Olleros,,AR_La Veneciana,-58.437229972332716,-34.56435997970402
+8.0,La Veneciana,La Veneciana - Parque Brown,,AR_La Veneciana,-58.459679977968335,-34.67546001076698
+1.0,La Veneciana,La Veneciana - Puerto Madero,,AR_La Veneciana,-58.365079974755645,-34.62080002762377
+14.0,Le Pain Quotidien,Le Pain Quotidien - Alto Palermo,Horario: Lunes a Domingo 10:00 a 22:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.40948813594878,-34.58777063526213
+13.0,Le Pain Quotidien,Le Pain Quotidien - Belgrano,Horario: Lunes a Viernes 8:00 a 21:00 hs.  Sabado y  Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.45274068415165,-34.562457371503115
+14.0,Le Pain Quotidien,Le Pain Quotidien - Distrito Arcos,Horario: Lunes a Domingo 9:00 a 22:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.427904434502125,-34.581236355006695
+14.0,Le Pain Quotidien,Le Pain Quotidien - Palermo,Horario: Lunes a Viernes 8:00 a 21:00 hs.  Sabado y  Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.40521093457937,-34.57696493715048
+14.0,Le Pain Quotidien,Le Pain Quotidien - Palermo Soho,Horario: Lunes a Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.42772447504103,-34.58979343995452
+1.0,Le Pain Quotidien,Le Pain Quotidien - Puerto Madero,Horario: Lunes a Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.36733881384134,-34.60126248188317
+2.0,Le Pain Quotidien,Le Pain Quotidien - Recoleta,Horario: Lunes a Viernes 8:00 a 21:00 hs.  Sabado y  Domingo 9:00 a 21:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.38619667105377,-34.58810968324542
+2.0,Le Pain Quotidien,Le Pain Quotidien - Recoleta Mall,Horario: Lunes a Domingo 9:00 a 24:00 hs.  Servicios: Wi-Fi.,AR_Le Pain Quotidien,-58.39401816017926,-34.58936143666506
+3.0,Munchis,Munchi´s - Abasto,,AR_Munchis,-58.411158230155706,-34.60313340649009
+14.0,Munchis,Munchi´s - Palermo,,AR_Munchis,-58.4132999740541,-34.59124996326864
+14.0,Nucha,Nucha - Belgrano,,AR_Nucha,-58.44732999801636,-34.566429974511266
+14.0,Nucha,Nucha - Botánico,,AR_Nucha,-58.409771863371134,-34.58117005415261
+6.0,Nucha,Nucha - Caballito,,AR_Nucha,-58.44173038378358,-34.625035570934415
+1.0,Nucha,Nucha - Galerias Pacifico,,AR_Nucha,-58.374253967776895,-34.59943304769695
+14.0,Nucha,Nucha - Palermo Hollywood,,AR_Nucha,-58.438179390504956,-34.577912762761116
+14.0,Nucha,Nucha - Palermo Nuevo,,AR_Nucha,-58.42003525234759,-34.576244512572885
+14.0,Nucha,Nucha - Palermo Viejo,,AR_Nucha,-58.42883407138288,-34.59037732332945
+13.0,Nucha,Nucha - Paseo del Angel,,AR_Nucha,-58.45252769999206,-34.562323931604624
+1.0,Nucha,Nucha - Patio Bullrich,,AR_Nucha,-58.38359098881483,-34.5881986990571
+2.0,Nucha,Nucha - Pza. Vicente López,,AR_Nucha,-58.38880218565464,-34.592659547924995
+2.0,Nucha,Nucha - Recoleta,,AR_Nucha,-58.39347333647311,-34.59206418134272
+13.0,Persicco,Persicco - Belgrano,Horario: Lunes a Jueves 13:00 a 24:00 hs.   Viernes 13:00 a 1:00 hs.   Sabado 11:00 a 2:00 hs.   Domingo 11:00 a 24:00 hs.,AR_Persicco,-58.45679341815412,-34.56002561375499
+13.0,Persicco,Persicco - Belgrano R,,AR_Persicco,-58.45872092060745,-34.5719782076776
+13.0,Persicco,Persicco - Belgrano.,Horario: Martes a Jueves 16:00 a 24:00 hs.   Viernes y Sabado 16:00 a 2:00 hs.   Domingo 13:00 a 24:00 hs.,AR_Persicco,-58.46214643679559,-34.56387768499553
+6.0,Persicco,Persicco - Caballito,Horario: Lunes a Jueves 9:00 a 24:00 hs.   Viernes 9:00 a 2:00 hs.   Sabado 9:00 a 3:00 hs.   Domingo 9:00 a 24:00 hs.,AR_Persicco,-58.43479000031948,-34.617499988526106
+14.0,Persicco,Persicco - Cañitas,Horario: Domingo a Jueves 14:00 a 1:00 hs.   Viernes y Sabado 11:00 a 2:00 hs.,AR_Persicco,-58.4320068731904,-34.571607895195484
+14.0,Persicco,Persicco - Imprenta,Horario: Domingo a Jueves 12:00 a 24:00 hs.   Viernes y Sabado 12:00 a 1:00 hs.,AR_Persicco,-58.43603110872209,-34.56523396074772
+1.0,Persicco,Persicco - Microcentro I,Horario: Lunes a Jueves 13:00 a 23:00 hs.   Viernes 13:00 a 24:00 hs.,AR_Persicco,-58.372950330376625,-34.59788918495178
+1.0,Persicco,Persicco - Microcentro II,Horario: Lunes a Viernes 8:00 a 20:00 hs.,AR_Persicco,-58.37643443606794,-34.605783093720675
+14.0,Persicco,Persicco - Palermo,Horario: Lunes a Jueves 9:00 a 24:00 hs.   Viernes y Sabado 9:00 a 2:00 hs.   Domingo 9:00 a 24:00 hs.,AR_Persicco,-58.4097199793905,-34.58106997422874
+14.0,Persicco,Persicco - Palermo Soho,Horario: Domingo a Jueves 9:00 a 1:00 hs.   Viernes 9:00 a 2:00 hs. y Sabado 9:00 a 3:00 hs.,AR_Persicco,-58.429218381643295,-34.58941709250212
+9.0,Persicco,Persicco - Plaza Liniers Shopping,Horario: Lunes a Domingo 10:00 a 22:00 hs.,AR_Persicco,-58.526882557198405,-34.640196505934
+1.0,Persicco,Persicco - Puerto Madero,Horario: Domingo a Jueves 12:00 a 24:00 hs.   Viernes y Sabado 12:00 a 1:00 hs.,AR_Persicco,-58.36258040741086,-34.61074870079756
+2.0,Persicco,Persicco - Recoleta I,Horario: Domingo a Jueves 9:00 a 1:00 hs.   Viernes y Sabado 9:00 a 2:00 hs.,AR_Persicco,-58.393036806955934,-34.593878695741296
+2.0,Persicco,Persicco - Recoleta II,Horario: Lunes a Jueves 10:00 a 24:00 hs.   Viernes 10:00 a 1:00 hs.   Sabado 9:00 a 2:00 hs.   Domingo 9:00 a 24:00 hs.,AR_Persicco,-58.39069993235171,-34.58770567551255
+12.0,Persicco,Persicco - Saavedra,Horario: Domingo a Jueves 8:00 a 24:00 hs.   Viernes y Sabado 8:00 a 1:00 hs.,AR_Persicco,-58.50359779782593,-34.56427238881588
+1.0,Persicco,Persicco - San Telmo,Horario: Lunes a Jueves 14:00 a 23:00 hs.   Viernes y Sabado 12:00 a 1:00 hs.   Domingo 10:00 a 23:00 hs.,AR_Persicco,-58.371582655236125,-34.61943821981549
+11.0,Persicco,Persicco - Villa Devoto,Horario: Lunes a Jueves 13:00 a 24:00 hs.   Viernes y Sabado 11:00 a 2:00 hs.   Domingo 11:00 a 24:00 hs.,AR_Persicco,-58.50841864943504,-34.60370371118188
+2.0,Piacere,Piacere - Azcuenaga,,AR_Piacere,-58.395774168893695,-34.58853858523071
+2.0,Piacere,Piacere - Billinghurst,,AR_Piacere,-58.40686661191285,-34.586498849093914
+1.0,Piacere,Piacere - Carlos Pellegrini,,AR_Piacere,-58.38133843615651,-34.59664715453982
+7.0,Piacere,Piacere - Directorio,,AR_Piacere,-58.456625528633595,-34.632140658795834
+2.0,Piacere,Piacere - Larrea,,AR_Piacere,-58.40199655853212,-34.59765935316682
+1.0,Piacere,Piacere - Libertad,,AR_Piacere,-58.3845061250031,-34.592885272577405
+13.0,Piacere,Piacere - Luis Maria Campos,,AR_Piacere,-58.44252440147102,-34.56364843994379
+11.0,Piacere,Piacere - Nazca,,AR_Piacere,-58.47976435907185,-34.61344758979976
+14.0,Piacere,Piacere - Paraguay,,AR_Piacere,-58.42333353124559,-34.58538849838078
+1.0,Piacere,Piacere - Parana,,AR_Piacere,-58.3880893047899,-34.601745028048754
+1.0,Piacere,Piacere - Paseo Colon,,AR_Piacere,-58.369519617408514,-34.61469104513526
+1.0,Piacere,Piacere - Puerto Madero,,AR_Piacere,-58.36486279964447,-34.60154252126813
+1.0,Piacere,Piacere - Puerto Madero.,,AR_Piacere,-58.364565409719944,-34.59905435331166
+14.0,Piacere,Piacere - Salguero,,AR_Piacere,-58.411030573770404,-34.58518129773438
+14.0,Piacere,Piacere - Sanchez de Bustamante,,AR_Piacere,-58.4019870031625,-34.58339536562562
+1.0,Piacere,Piacere - UADE,,AR_Piacere,-58.38189113885164,-34.617539048194885
+3.0,Starbucks,Starbucks - Abasto,Horario: Lunes a Jueves y Domingo 9:00 a 24:00 hs.   Viernes y Sabado 9:00 a 2:00 hs.,AR_Starbucks,-58.410582561045885,-34.603440603241324
+3.0,Starbucks,Starbucks - Abasto II,Horario: Lunes a Jueves y Domingo 9:00 a 24:00 hs.   Viernes y Sábado 9:00 a 2:00 hs.,AR_Starbucks,-58.410748690366745,-34.60265672765672
+14.0,Starbucks,Starbucks - Aeroparque Jorge Newbery,,AR_Starbucks,-58.41369585134089,-34.55642013810575
+1.0,Starbucks,Starbucks - Alliance,Horario: Lunes a Viernes 7:00 a 20:00 hs.,AR_Starbucks,-58.380813309922814,-34.59893189370632
+14.0,Starbucks,Starbucks - Alto Palermo,Horario: Lunes a Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 3:00 hs.   Sabado 8:00 a 3:00 hs.   Domingo 8:00 a 1:00 hs.,AR_Starbucks,-58.409619983285666,-34.58824999630451
+2.0,Starbucks,Starbucks - Austria,Horario: Lunes a Jueves 7:00 a 23:00 hs.   Viernes 7:00 a 1:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.40002999641001,-34.584820037707686
+1.0,Starbucks,Starbucks - Av. de Mayo,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.38020386174321,-34.60901750251651
+5.0,Starbucks,Starbucks - Av. La Plata,Horario: Lunes y Martes 7:00 a 23:00 hs.   Miercoles y Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 3:00 hs.   Sabado 8:00 a 3:00 hs.   Domingo 8:00 a 1:00 hs.,AR_Starbucks,-58.42915995977819,-34.61513000540435
+2.0,Starbucks,Starbucks - Ayacucho,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado y Domingo 8:00 a 22:00 hs.,AR_Starbucks,-58.39601246640086,-34.59564568474889
+2.0,Starbucks,Starbucks - Bazterrica,,AR_Starbucks,-58.40775517746806,-34.587404346093535
+1.0,Starbucks,Starbucks - Bellini Esmeralda,,AR_Starbucks,-58.3784584980458,-34.59755826741457
+2.0,Starbucks,Starbucks - Buenos Aires Design,Horario: Lunes a Jueves 8:00 a 24:00 hs.   Viernes 8:00 a 1:00 hs.   Sabado y Domingo 9:00 a 1:00 hs.,AR_Starbucks,-58.3934046048671,-34.585851430892944
+14.0,Starbucks,Starbucks - Cabello,Horario: Lunes a Jueves 7:00 a 24:00 hs.   Viernes 7:00 a 1:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.410479966551065,-34.58085003308952
+13.0,Starbucks,Starbucks - Cabildo,Horario: Lunes a Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 2:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 9:00 a 1:00 hs.,AR_Starbucks,-58.45613946206868,-34.56285232678056
+1.0,Starbucks,Starbucks - Caesar Park,Horario: Lunes a Jueves 7:00 a 24:00 hs.   Viernes 7:00 a 1:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.38221895508468,-34.60452362895012
+3.0,Starbucks,Starbucks - Callao,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 8:00 a 21:00 hs.,AR_Starbucks,-58.39208998717368,-34.608070012182
+2.0,Starbucks,Starbucks - Callao y Las Heras,,AR_Starbucks,-58.391760075464845,-34.591757571324706
+2.0,Starbucks,Starbucks - Callao y Santa Fe,Horario: Lunes a Jueves 7:00 a 22:00 hs.   Viernes 7:00 a 23:00 hs. Sabado 8:00 a 23:00 hs. Domingo 9:00 a 22:00 hs.,AR_Starbucks,-58.393233362585306,-34.596051033586264
+14.0,Starbucks,Starbucks - Castex,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 9:00 a 24:00 hs.,AR_Starbucks,-58.40613001026213,-34.57781000062823
+3.0,Starbucks,Starbucks - Clinicas,Horario: Lunes a Viernes 7:00 a 21:00 hs.   Sabado 8:00 a 17:00 hs.,AR_Starbucks,-58.40049603022635,-34.599629770964384
+1.0,Starbucks,Starbucks - Congreso,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado 8:00 a 22:00 hs.   Domingo 9:00 a 22:00 hs.,AR_Starbucks,-58.38478406891227,-34.60931799374521
+1.0,Starbucks,Starbucks - Conquistador,Horario: Lunes a Viernes 7:00 a 21:00 hs.,AR_Starbucks,-58.37268856354058,-34.59905309602618
+13.0,Starbucks,Starbucks - Defensores,Horario: Lunes a Miercoles 7:00 a 24:00 hs.   Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 2:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.4631028957665,-34.54147830605507
+11.0,Starbucks,Starbucks - Devoto Shopping,Horario: Lunes a Jueves y Domingo 10:00 a 23:00 hs.   Viernes y Sabado 10:00 a 1:00 hs.,AR_Starbucks,-58.51786111481488,-34.61156442761421
+14.0,Starbucks,Starbucks - Distrito Arcos,Horario: Lunes a Jueves 10:00 a 23:00 hs.   Viernes; Sabado y Domingo 10:00 a 24:00 hs.,AR_Starbucks,-58.42764233238995,-34.58047963678837
+12.0,Starbucks,Starbucks - Dot Baires 3º Nivel,Horario: Lunes a Jueves 10:00 a 24:00 hs.   Viernes y Sabado 10:00 a 2:00 hs.   Domingo 10:00 a 2:00 hs.,AR_Starbucks,-58.487529354169965,-34.546282812952995
+12.0,Starbucks,Starbucks - Dot Baires PB,Horario: Lunes a Jueves 8:00 a 23:00 hs.   Viernes 8:00 a 24:00 hs.   Sabado 8:00 a 23:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.48864791914821,-34.5464947912842
+13.0,Starbucks,Starbucks - Elcano,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sabado y Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.45940480008721,-34.57293726503849
+1.0,Starbucks,Starbucks - Florida,Horario: Lunes a Viernes 7:00 a 23:00 hs.   Sabado 9:00 a 23:00 hs.   Domingo 10:00 a 22:00 hs.,AR_Starbucks,-58.374919993802905,-34.60796004161239
+1.0,Starbucks,Starbucks - Florida Plaza,Horario: Lunes a Viernes 6:00 a 21:00 hs.   Sabado 8:00 a 20:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.37549096904695,-34.596754694357514
+1.0,Starbucks,Starbucks - Galeria Guemes,Horario: Lunes a Viernes 7:00 a 20:00 hs.,AR_Starbucks,-58.37373177520931,-34.606539979577065
+1.0,Starbucks,Starbucks - Galerias Pacifico,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sábado 8:00 a 24:00 hs.   Domingo 9:00 a 24:00 hs.,AR_Starbucks,-58.37511520832777,-34.599592722952366
+1.0,Starbucks,Starbucks - Galerias Pacifico II,Horario: Lunes a Domingo 10:00 a 21:00 hs.,AR_Starbucks,-58.37449964135885,-34.599557016044855
+1.0,Starbucks,Starbucks - Gran Rex,Horario: Lunes a Jueves 7:00 a 22:00 hs.   Viernes 7:00 a 2:00 hs. Sabado 8:00 a 2:00 hs. Domingo 9:00 a 22:00 hs.,AR_Starbucks,-58.37857902981341,-34.60341746918857
+14.0,Starbucks,Starbucks - Honduras,Horario: Lunes a Jueves 8:00 a 21:00 hs.   Viernes 8:00 a 22:00 hs.   Sabado 9:00 a 22:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.43594058416784,-34.5845309458673
+1.0,Starbucks,Starbucks - Intercontinental Plaza,Horario: Lunes a Viernes 8:00 a 20:00 hs.,AR_Starbucks,-58.378740129992366,-34.6115686185658
+2.0,Starbucks,Starbucks - Jean Jaures,Horario: Lunes a Viernes 7:00 a 21:00 hs.   Sábado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.40654147788882,-34.597958754748106
+13.0,Starbucks,Starbucks - Juana Azurduy,Horario: Lunes a Jueves 7:00 a 24:00 hs.   Viernes 7:00 a 1:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.46674097701907,-34.55092051997781
+14.0,Starbucks,Starbucks - Julian Alvarez,Horario: Lunes a Jueves 7:00 a 21:00 hs.   Viernes 7:00 a 22:00 hs.   Sabado 9:00 a 22:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.41407488100231,-34.58646557293832
+13.0,Starbucks,Starbucks - La Pampa,,AR_Starbucks,-58.44525455497205,-34.55962504260242
+14.0,Starbucks,Starbucks - Lacroze,Horario: Lunes a Viernes 7:00 a 1:00 hs.   Sabado y Domingo 8:00 a 1:00 hs.,AR_Starbucks,-58.44381001777947,-34.56874002702534
+1.0,Starbucks,Starbucks - Liberty,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado 9:00 a 21:00 hs.   Domingo 10:00 a 21:00 hs.,AR_Starbucks,-58.3756248280406,-34.60336424410343
+1.0,Starbucks,Starbucks - Los Molinos,Horario: Lunes a Jueves 8:00 a 23:00 hs.   Viernes y Sabado 8:00 a 24:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.362609995529056,-34.61054996587336
+14.0,Starbucks,Starbucks - Malabia,Horario: Lunes y Martes 9:00 a 24:00 hs.   Miercoles; Jueves y Domingo 9:00 a 1:00 hs.   Viernes y Sabado 9:00 a 4:00 hs.,AR_Starbucks,-58.42589353211224,-34.58993777632713
+2.0,Starbucks,Starbucks - Mansilla,Horario: Lunes a Jueves 7:00 a 23:00 hs.   Viernes 7:00 a 1:00 hs.   Sabado 8:00 a 1:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.412797562777996,-34.592330642044544
+14.0,Starbucks,Starbucks - Maure,Horario: Lunes a Miercoles 7:00 a 24:00 hs.   Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 2:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 8:00 a 24:00 hs.,AR_Starbucks,-58.436729991808534,-34.56767996773124
+11.0,Starbucks,Starbucks - Megatlon Devoto,,AR_Starbucks,-58.52318404242396,-34.612689446657896
+14.0,Starbucks,Starbucks - Migueletes,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado y Domingo 8:00 a 21:00 hs.,AR_Starbucks,-58.436430003494024,-34.564989963546395
+13.0,Starbucks,Starbucks - Olazabal,Horario: Lunes a Jueves 7:00 a 22:00 hs.   Viernes 7:00 a 23:00 hs.   Sabado 8:00 a 23:00 hs.   Domingo 8:00 a 22:00 hs.,AR_Starbucks,-58.44939705915749,-34.55478524789214
+13.0,Starbucks,Starbucks - Olleros,Horario: Lunes a Jueves 7:00 a 1:00 hs.   Viernes 7:00 a 2:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 9:00 a 1:00 hs.,AR_Starbucks,-58.44392283819616,-34.57047902047634
+14.0,Starbucks,Starbucks - Palermo Hollywood,,AR_Starbucks,-58.438057685270905,-34.57800345495343
+6.0,Starbucks,Starbucks - Parque Rivadavia,Horario: Domingo a Jueves 8:00 a 23:00 hs.   Viernes y Sabado 8:00 a 2:00 hs.,AR_Starbucks,-58.434131098911166,-34.61717183701694
+14.0,Starbucks,Starbucks - Paseo Alcorta,Horario: Domingo a Jueves 10:00 a 24:00 hs.   Viernes y Sabado 10:00 a 1:00 hs.,AR_Starbucks,-58.40472998097539,-34.575020000338554
+14.0,Starbucks,Starbucks - Paseo de la Infanta,Horario: Lunes a Jueves 7:00 a 24:00 hs.   Viernes 7:00 a 2:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.420632211491466,-34.56980310380459
+1.0,Starbucks,Starbucks - Patio Bullrich,Horario: Lunes a Jueves y Domingo 10:00 a 24:00 hs.   Viernes y Sabado 10:00 a 1:30 hs.,AR_Starbucks,-58.38344623334706,-34.588024439290166
+1.0,Starbucks,Starbucks - Peron,,AR_Starbucks,-58.37272913195193,-34.60563339293003
+1.0,Starbucks,Starbucks - Peru,Horario: Lunes a Jueves 7:00 a 21:00 hs.   Viernes 7:00 a 22:00 hs. Sabado 8:00 a 22:00 hs. Domingo 8:00 a 21:00 hs.,AR_Starbucks,-58.3748132083565,-34.61254603229463
+1.0,Starbucks,Starbucks - Pirelli,Horario: Lunes a Viernes  7:00 a 22:00 hs. Sabado y Domingo 8:00 a 21:00 hs.,AR_Starbucks,-58.37610997259617,-34.593390030786395
+2.0,Starbucks,Starbucks - Plaza Barrientos,,AR_Starbucks,-58.398118168115616,-34.58920226432383
+14.0,Starbucks,Starbucks - Plaza Serrano,,AR_Starbucks,-58.430710695683956,-34.58916421048343
+14.0,Starbucks,Starbucks - Portal Palermo,Horario: Lunes a Domingo 8:00 a 22:00 hs.,AR_Starbucks,-58.426083298400044,-34.5748396217823
+2.0,Starbucks,Starbucks - Pueyrredon,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sabado 8:00 a 24:00 hs.   Domingo 8:00 a 22:00 hs.,AR_Starbucks,-58.40056995861232,-34.59076004102826
+2.0,Starbucks,Starbucks - Recoleta Mall,Horario: Domingo a Jueves 10:00 a 24:00 hs.   Viernes y Sabado 10:00 a 1:00 hs.,AR_Starbucks,-58.39416869916022,-34.58898684941232
+1.0,Starbucks,Starbucks - Reconquista,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.37235580198467,-34.60323600098491
+1.0,Starbucks,Starbucks - Retiro,,AR_Starbucks,-58.37482435628772,-34.591389102861285
+1.0,Starbucks,Starbucks - Rodriguez Peña,Horario: Lunes a Jueves 7:00 a 24:00 hs.   Viernes 7:00 hs. sin cierre   Sabado abierto 24 hs.   Domingo hasta las 24:00 hs.,AR_Starbucks,-58.39086715131998,-34.604369066655636
+13.0,Starbucks,Starbucks - Roosevelt,Horario: Lunes a Domingo 7:00 a 22:00 hs.,AR_Starbucks,-58.461424419656396,-34.55812836997211
+12.0,Starbucks,Starbucks - Ruiz Huidobro,Horario: Lunes a Viernes 7:00 a 21:00 hs.   Sabado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.47162268124521,-34.544610287994146
+1.0,Starbucks,Starbucks - San Martin,,AR_Starbucks,-58.37381215766072,-34.60445959120989
+1.0,Starbucks,Starbucks - San Telmo,Horario: Lunes a Viernes 7:00 a 22:00 hs.   Sabado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.37134259752929,-34.620718052610755
+1.0,Starbucks,Starbucks - Talcahuano,Horario: Lunes a Viernes 7:00 a 21:00 hs.   Sábado 8:00 a 21:00 hs.   Domingo 9:00 a 21:00 hs.,AR_Starbucks,-58.3857979439199,-34.59571022540331
+1.0,Starbucks,Starbucks - Torre Boston,Horario: Lunes a Viernes 7:00 a 20:00 hs.,AR_Starbucks,-58.3713006041944,-34.594839848577976
+1.0,Starbucks,Starbucks - Tribunales,Horario: Lunes a Viernes 7:00 a 21:00 hs.,AR_Starbucks,-58.38656078092754,-34.60276544094086
+12.0,Starbucks,Starbucks - Triunvirato,Horario: Lunes; Miercoles y Jueves 7:00 a 23:00 hs.   Martes 7:00 a 22:00 hs.   Viernes 7:00 a 24:00 hs.   Sabado 9:00 a 24:00 hs.   Domingo 9:00 a 22:00 hs.,AR_Starbucks,-58.48286767490208,-34.57659278064966
+1.0,Starbucks,Starbucks - Tucuman 1,Horario: Lunes a Sabado 8:00 a 21:00 hs.,AR_Starbucks,-58.3691300265491,-34.59990997798741
+1.0,Starbucks,Starbucks - UADE,Horario: Lunes a Viernes 7:00 a 21:30 hs.,AR_Starbucks,-58.38191997259855,-34.61699003353715
+1.0,Starbucks,Starbucks - UADE II,Horario: Lunes a Viernes 7:00 a 21:30 hs.   Sábado 7:00 a 14:00 hs.,AR_Starbucks,-58.38165535591543,-34.616918284446
+1.0,Starbucks,Starbucks - UCA,Horario: Lunes a Jueves 7:00 a 23:00 hs.   Viernes 7:00 a 24:00 hs.   Sabado 8:00 a 24:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.365678023546934,-34.61672977544367
+3.0,Starbucks,Starbucks - Uriburu,,AR_Starbucks,-58.397308979183435,-34.60953407920897
+3.0,Starbucks,Starbucks - Viamonte,Horario: Lunes a Viernes 7:00 a 24:00 hs.   Sabado 8:00 a 2:00 hs.   Domingo 8:00 a 21:00 hs.,AR_Starbucks,-58.39284997433424,-34.60076996125281
+6.0,Starbucks,Starbucks - Village Caballito,Horario: Domingo a Viernes 10:00 a 24:00 hs.   Sabado 10:00 a 2:00 hs.,AR_Starbucks,-58.43754714354873,-34.618609584867954
+1.0,Starbucks,Starbucks - Yatch,Horario: Lunes a Sabado 8:00 a 23:00 hs.   Domingo 9:00 a 23:00 hs.,AR_Starbucks,-58.364666663110256,-34.60109534673393
+5.0,The Coffee Store,The Coffee Store - Almagro,,AR_The Coffee Store,-58.425010247156024,-34.61317727342248
+3.0,The Coffee Store,The Coffee Store - BA Central Hotel,,AR_The Coffee Store,-58.396614119410515,-34.605136178433895
+3.0,The Coffee Store,The Coffee Store - Balbanera,Horario: Lunes a Viernes 7:30 a 21:30 hs.   Sabado 9:00 a 20:00 hs.,AR_The Coffee Store,-58.393759997561574,-34.60442002862692
+14.0,The Coffee Store,The Coffee Store - Bvld. Charcas,Horario: Lunes a Jueves 8:00 a 21:30 hs.   Viernes 8:00 a 1:30 hs.   Sabado 9:00 a 1:30 hs.   Domingo 9:00 a 21:30 hs.,AR_The Coffee Store,-58.414059123024344,-34.59072953090072
+6.0,The Coffee Store,The Coffee Store - Caballito,,AR_The Coffee Store,-58.45047019422054,-34.62809898890555
+13.0,The Coffee Store,The Coffee Store - Cabildo,Horario: Lunes a Domingo 10:00 a 24:00 hs.,AR_The Coffee Store,-58.461890537291765,-34.55609617754817
+14.0,The Coffee Store,The Coffee Store - Cerviño,,AR_The Coffee Store,-58.40624509379268,-34.58113543689251
+12.0,The Coffee Store,The Coffee Store - Coghlan,Horario: Lunes a Jueves 8:00 a 21:30 hs.   Viernes 8:00 a 23:00 hs.   Sabado 9:00 a 23:00 hs.   Domingo 9:00 a 21:30 hs.,AR_The Coffee Store,-58.47394002601504,-34.56258997321129
+3.0,The Coffee Store,The Coffee Store - Congreso,Horario: Lunes a Sabados de 8:00 a 21:00 hs.,AR_The Coffee Store,-58.392040031030774,-34.60847997106612
+11.0,The Coffee Store,The Coffee Store - Devoto Shopping Lobby Cines,Horario: Lunes a Domingos 13 a 23 hs.,AR_The Coffee Store,-58.51752592250705,-34.61112161166966
+11.0,The Coffee Store,The Coffee Store - Devoto Shopping Patio de Comidas,Horario: Lunes a Domingos 10 a 23.30 hs.,AR_The Coffee Store,-58.5169359203428,-34.61176123470068
+1.0,The Coffee Store,The Coffee Store - Falabella Florida,Horario: Lunes a Sabado 9:00 a 21:00 hs.   Domingo 12:00 a 20:00 hs.,AR_The Coffee Store,-58.37521880865097,-34.60567278787494
+10.0,The Coffee Store,The Coffee Store - Floresta,,AR_The Coffee Store,-58.47693228162825,-34.62443777360022
+10.0,The Coffee Store,The Coffee Store - Monte Castro,,AR_The Coffee Store,-58.50254218094051,-34.61797507479787
+1.0,The Coffee Store,The Coffee Store - Retiro,,AR_The Coffee Store,-58.38569208048284,-34.597322065383196
+1.0,The Coffee Store,The Coffee Store - Retiro II,,AR_The Coffee Store,-58.374272072687745,-34.59617634303868
+12.0,The Coffee Store,The Coffee Store - Saavedra,,AR_The Coffee Store,-58.50348154082894,-34.564297618344426
+14.0,Volta,Volta - Belgrano I,Horario: Lunes a Jueves 9:00 a 23:00 hs.  Viernes Sabado y Domingo 9:00 a 24:00 hs.,AR_Volta,-58.44653028063476,-34.5690686814487
+13.0,Volta,Volta - Belgrano II,Horario: Domingo a Jueves 8:00 a 24:00 hs.  Viernes y Sabado 8:00 a 1:00 hs.,AR_Volta,-58.452933048829436,-34.559767451137304
+13.0,Volta,Volta - Belgrano III,Horario: Domingo a Jueves 12:00 a 24:00 hs.  Viernes y Sabado 12:00 a 1:00 hs.,AR_Volta,-58.46350313164294,-34.56569471396506
+2.0,Volta,Volta - Buenos Aires Design,Horario: Domingo a Jueves 12:00 a 1:00 hs.  Viernes y Sabado 12:00 a 2:00 hs.,AR_Volta,-58.39246097020805,-34.58587037399411
+6.0,Volta,Volta - Caballito,Horario: Domingo a Jueves 11:00 a 24:00 hs.  Viernes y Sabado 11:00 a 1:00 hs.,AR_Volta,-58.44711810350418,-34.62741041556001
+1.0,Volta,Volta - Centro,Horario: Domingo a Jueves 10:00 a 24:00 hs.  Viernes y Sabado 10:00 a 1:00 hs.,AR_Volta,-58.383656116202474,-34.60376422852278
+12.0,Volta,Volta - Dot Baires,Horario: Lunes a Jueves 10:00 a 24:00 hs.  Viernes y Sabado 10:00 a 2:00 hs.   Domingo 10:00 a 23:00 hs.,AR_Volta,-58.488082056865096,-34.54595223069191
+14.0,Volta,Volta - Palermo I,Horario: Domingo a Jueves 8:00 a 24:00 hs.  Viernes y Sabado 8:00 a 1:00 hs.,AR_Volta,-58.41148001141846,-34.57662002183497
+14.0,Volta,Volta - Palermo II,Horario: Domingo a Jueves 8:00 a 24:00 hs.  Viernes y Sabado 8:00 a 1:00 hs.,AR_Volta,-58.405149998143315,-34.58162996917963
+14.0,Volta,Volta - Paseo Alcorta,Horario: Domingo a Jueves 10:00 a 23:00 hs.  Viernes y Sabado 10:00 a 24:00 hs.,AR_Volta,-58.40358995832503,-34.57462001591921
+1.0,Volta,Volta - Puerto Madero,Horario: Domingo a Jueves 11:00 a 1:00 hs.  Viernes y Sabado 1100 a 2:00 hs.,AR_Volta,-58.36352974176407,-34.612729512155056
+2.0,Volta,Volta - Recoleta I,Horario: Domingo a Jueves 11:00 a 24:00 hs.  Viernes y Sabado 11:00 a 1:00 hs.,AR_Volta,-58.39280001819134,-34.59257002919912
+2.0,Volta,Volta - Recoleta II,Horario: Domingo a Jueves 11:00 a 24:00 hs.  Viernes y Sabado 11:00 a 1:00 hs.,AR_Volta,-58.39004002511501,-34.58837002515793
+2.0,Volta,Volta - Recoleta III,Horario: Domingo a Jueves 11:00 a 24:00 hs.  Viernes y Sabado 11:00 a 1:00 hs.,AR_Volta,-58.39363996870816,-34.59592002443969
+12.0,Volta,Volta - Villa Pueyrredon,Horario: Domingo a Jueves 10:00 a 24:00 hs.  Viernes y Sabado 10:00 a 2:00 hs.,AR_Volta,-58.49637519568205,-34.58276546560228
