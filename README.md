@@ -76,19 +76,19 @@ http://localhost:8501
 Subte:
 
 ```http
-
+https://data.buenosaires.gob.ar/dataset/subte-estaciones
 ```
 
 Delitos:
 
 ```http
-
+https://data.buenosaires.gob.ar/dataset/delitos
 ```
 
 Cajeros automaticos:
 
 ```http
-
+https://data.buenosaires.gob.ar/dataset/cajeros-automaticos
 ```
 
 Barrios:
