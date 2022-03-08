@@ -1,6 +1,6 @@
 # :earth_americas:  Ciudad Autónoma de Buenos Aires - Waypoints
 
-[![Visits Badge](https://badges.pufler.dev/visits/ezeparziale/caba-waypoint-map?style=flat-square)]()
+[![Visits Badge](https://badges.pufler.dev/visits/ezeparziale/caba-waypoints-map?style=flat-square)]()
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ezeparziale/caba-waypoints-map/app/app_map.py)
 
 Mapa con distintos waypoints de CABA
